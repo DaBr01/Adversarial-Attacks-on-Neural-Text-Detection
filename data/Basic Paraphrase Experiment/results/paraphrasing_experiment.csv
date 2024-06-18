@@ -1,0 +1,241 @@
+,detector,text_id,score,mutation,mutation_name
+0,GPTZero,def_p_14,0.9977558223168834,def,Baseline
+1,GPTZero,def_p_17,0.9977558223168834,def,Baseline
+2,GPTZero,def_p_11,0.982251886615535,def,Baseline
+3,GPTZero,def_p_13,0.9977558223168834,def,Baseline
+4,GPTZero,def_p_16,0.9977558223168834,def,Baseline
+5,GPTZero,def_p_1,0.9973955738343496,def,Baseline
+6,GPTZero,def_p_12,0.9973955738343496,def,Baseline
+7,GPTZero,def_p_15,0.982932157729323,def,Baseline
+8,GPTZero,def_p_10,0.9973955738343496,def,Baseline
+9,GPTZero,def_p_0,0.9802844144278466,def,Baseline
+10,GPTZero,def_p_18,0.8234289035940133,def,Baseline
+11,GPTZero,def_p_2,0.9092670190856504,def,Baseline
+12,GPTZero,def_p_3,0.9977558223168834,def,Baseline
+13,GPTZero,def_p_19,0.9825825322814176,def,Baseline
+14,GPTZero,def_p_6,0.9106245014028448,def,Baseline
+15,GPTZero,def_p_5,0.9977558223168834,def,Baseline
+16,GPTZero,def_p_9,0.982932157729323,def,Baseline
+17,GPTZero,def_p_4,0.9973955738343496,def,Baseline
+18,GPTZero,def_p_8,0.915630600561598,def,Baseline
+19,GPTZero,par_p_0,0.8223915592028135,par,Basic paraphrase(Parrot library)
+20,GPTZero,def_p_7,0.9977558223168834,def,Baseline
+21,GPTZero,par_p_1,0.8288928167075286,par,Basic paraphrase(Parrot library)
+22,GPTZero,par_p_11,0.8596152156724941,par,Basic paraphrase(Parrot library)
+23,GPTZero,par_p_10,0.6942951482046156,par,Basic paraphrase(Parrot library)
+24,GPTZero,par_p_13,0.8234289035940133,par,Basic paraphrase(Parrot library)
+25,GPTZero,par_p_14,0.8235569534490451,par,Basic paraphrase(Parrot library)
+26,GPTZero,par_p_15,0.8307331404026007,par,Basic paraphrase(Parrot library)
+27,GPTZero,par_p_17,0.4708284996133023,par,Basic paraphrase(Parrot library)
+28,GPTZero,par_p_12,0.8234289035940133,par,Basic paraphrase(Parrot library)
+29,GPTZero,par_p_16,0.9109374343376851,par,Basic paraphrase(Parrot library)
+30,GPTZero,par_p_19,0.7845924722447875,par,Basic paraphrase(Parrot library)
+31,GPTZero,par_p_2,0.8288928167075286,par,Basic paraphrase(Parrot library)
+32,GPTZero,par_p_18,0.4712838602865323,par,Basic paraphrase(Parrot library)
+33,GPTZero,par_p_3,0.982932157729323,par,Basic paraphrase(Parrot library)
+34,GPTZero,par_p_4,0.8235569534490451,par,Basic paraphrase(Parrot library)
+35,GPTZero,par_p_6,0.7744087988021304,par,Basic paraphrase(Parrot library)
+36,GPTZero,par_p_5,0.9802844144278466,par,Basic paraphrase(Parrot library)
+37,GPTZero,par_p_7,0.8234289035940133,par,Basic paraphrase(Parrot library)
+38,GPTZero,par_p_8,0.1011551849443445,par,Basic paraphrase(Parrot library)
+39,GPTZero,quil_p_0,0.0748466625676709,quil,Quillbot paraphrase
+40,GPTZero,quil_p_1,0.1692571276148266,quil,Quillbot paraphrase
+41,GPTZero,par_p_9,0.7737826085224376,par,Basic paraphrase(Parrot library)
+42,GPTZero,quil_p_10,0.4453935182454194,quil,Quillbot paraphrase
+43,GPTZero,quil_p_11,0.9106245014028448,quil,Quillbot paraphrase
+44,GPTZero,quil_p_13,0.7236238825849749,quil,Quillbot paraphrase
+45,GPTZero,quil_p_15,0.4093567251461988,quil,Quillbot paraphrase
+46,GPTZero,quil_p_14,0.4300352763312616,quil,Quillbot paraphrase
+47,GPTZero,quil_p_12,0.7384433018457488,quil,Quillbot paraphrase
+48,GPTZero,quil_p_16,0.4340580987325952,quil,Quillbot paraphrase
+49,GPTZero,quil_p_17,0.2343041759089593,quil,Quillbot paraphrase
+50,GPTZero,quil_p_2,0.3883295664680501,quil,Quillbot paraphrase
+51,GPTZero,quil_p_19,0.493569674787101,quil,Quillbot paraphrase
+52,GPTZero,quil_p_18,0.4448284527841269,quil,Quillbot paraphrase
+53,GPTZero,quil_p_3,0.4448284527841269,quil,Quillbot paraphrase
+54,GPTZero,quil_p_6,0.105678448043737,quil,Quillbot paraphrase
+55,GPTZero,quil_p_7,0.4453935182454194,quil,Quillbot paraphrase
+56,GPTZero,quil_p_8,0.1011551849443445,quil,Quillbot paraphrase
+57,GPTZero,quil_p_9,0.1740631343437987,quil,Quillbot paraphrase
+58,GPTZero,quil_p_5,0.3491271820448878,quil,Quillbot paraphrase
+59,GPTZero,quil_p_4,0.4448765242225371,quil,Quillbot paraphrase
+60,GPT2Detector,def_p_1,0.999727427959442,def,Baseline
+61,GPT2Detector,def_p_15,0.9997830986976624,def,Baseline
+62,GPT2Detector,def_p_12,0.9997009038925172,def,Baseline
+63,GPT2Detector,def_p_0,0.999821126461029,def,Baseline
+64,GPT2Detector,def_p_11,0.999778687953949,def,Baseline
+65,GPT2Detector,def_p_13,0.9997588992118835,def,Baseline
+66,GPT2Detector,def_p_16,0.99982750415802,def,Baseline
+67,GPT2Detector,def_p_10,0.9997802376747132,def,Baseline
+68,GPT2Detector,def_p_14,0.9997321963310242,def,Baseline
+69,GPT2Detector,def_p_17,0.999782383441925,def,Baseline
+70,GPT2Detector,def_p_19,0.9998181462287904,def,Baseline
+71,GPT2Detector,def_p_18,0.9917271137237548,def,Baseline
+72,GPT2Detector,def_p_2,0.9997761845588684,def,Baseline
+73,GPT2Detector,def_p_3,0.999826729297638,def,Baseline
+74,GPT2Detector,def_p_4,0.9998243451118468,def,Baseline
+75,GPT2Detector,def_p_5,0.999795138835907,def,Baseline
+76,GPT2Detector,def_p_7,0.99979966878891,def,Baseline
+77,GPT2Detector,def_p_8,0.9997954964637756,def,Baseline
+78,GPT2Detector,def_p_6,0.9998106360435486,def,Baseline
+79,GPT2Detector,par_p_1,0.0002856850624084,par,Basic paraphrase(Parrot library)
+80,GPT2Detector,par_p_0,0.000322937965393,par,Basic paraphrase(Parrot library)
+81,GPT2Detector,def_p_9,0.9996009469032288,def,Baseline
+82,GPT2Detector,par_p_10,0.0002647042274475,par,Basic paraphrase(Parrot library)
+83,GPT2Detector,par_p_17,0.000278890132904,par,Basic paraphrase(Parrot library)
+84,GPT2Detector,par_p_18,0.000274121761322,par,Basic paraphrase(Parrot library)
+85,GPT2Detector,par_p_11,0.0003447532653808,par,Basic paraphrase(Parrot library)
+86,GPT2Detector,par_p_12,0.0002446770668029,par,Basic paraphrase(Parrot library)
+87,GPT2Detector,par_p_13,0.0003389120101928,par,Basic paraphrase(Parrot library)
+88,GPT2Detector,par_p_14,0.0003039836883544,par,Basic paraphrase(Parrot library)
+89,GPT2Detector,par_p_15,0.0002214312553405,par,Basic paraphrase(Parrot library)
+90,GPT2Detector,par_p_16,0.0002580285072326,par,Basic paraphrase(Parrot library)
+91,GPT2Detector,par_p_19,0.000295341014862,par,Basic paraphrase(Parrot library)
+92,GPT2Detector,par_p_3,0.0003267526626586,par,Basic paraphrase(Parrot library)
+93,GPT2Detector,par_p_2,0.0001881718635559,par,Basic paraphrase(Parrot library)
+94,GPT2Detector,par_p_4,0.0019196271896362,par,Basic paraphrase(Parrot library)
+95,GPT2Detector,par_p_5,0.0001733899116516,par,Basic paraphrase(Parrot library)
+96,GPT2Detector,par_p_6,0.0001770853996276,par,Basic paraphrase(Parrot library)
+97,GPT2Detector,par_p_9,0.0002028346061706,par,Basic paraphrase(Parrot library)
+98,GPT2Detector,par_p_8,0.0001724958419799,par,Basic paraphrase(Parrot library)
+99,GPT2Detector,par_p_7,0.0054137706756591,par,Basic paraphrase(Parrot library)
+100,GPT2Detector,quil_p_10,0.9989230036735536,quil,Quillbot paraphrase
+101,GPT2Detector,quil_p_12,0.0002227425575256,quil,Quillbot paraphrase
+102,GPT2Detector,quil_p_0,0.0001835227012634,quil,Quillbot paraphrase
+103,GPT2Detector,quil_p_1,0.0001869797706604,quil,Quillbot paraphrase
+104,GPT2Detector,quil_p_11,0.0002346634864807,quil,Quillbot paraphrase
+105,GPT2Detector,quil_p_13,0.0002383589744567,quil,Quillbot paraphrase
+106,GPT2Detector,quil_p_14,0.0178587436676025,quil,Quillbot paraphrase
+107,GPT2Detector,quil_p_15,0.0001730322837829,quil,Quillbot paraphrase
+108,GPT2Detector,quil_p_19,0.0003994107246398,quil,Quillbot paraphrase
+109,GPT2Detector,quil_p_18,0.002692699432373,quil,Quillbot paraphrase
+110,GPT2Detector,quil_p_16,0.0002036690711975,quil,Quillbot paraphrase
+111,GPT2Detector,quil_p_17,0.0008050799369812,quil,Quillbot paraphrase
+112,GPT2Detector,quil_p_2,0.5467004776000977,quil,Quillbot paraphrase
+113,GPT2Detector,quil_p_4,0.6414611339569092,quil,Quillbot paraphrase
+114,GPT2Detector,quil_p_3,0.0001783967018127,quil,Quillbot paraphrase
+115,GPT2Detector,quil_p_8,0.025646686553955,quil,Quillbot paraphrase
+116,GPT2Detector,quil_p_9,0.0002040266990661,quil,Quillbot paraphrase
+117,GPT2Detector,quil_p_5,0.0515152215957641,quil,Quillbot paraphrase
+118,GPT2Detector,quil_p_7,0.992929995059967,quil,Quillbot paraphrase
+119,GPT2Detector,quil_p_6,0.0010496973991394,quil,Quillbot paraphrase
+120,Radar,def_p_11,0.9702361822128296,def,Baseline
+121,Radar,def_p_14,0.8496955633163452,def,Baseline
+122,Radar,def_p_13,0.9770394563674928,def,Baseline
+123,Radar,def_p_0,0.9429534077644348,def,Baseline
+124,Radar,def_p_10,0.9740819334983826,def,Baseline
+125,Radar,def_p_1,0.9736166000366212,def,Baseline
+126,Radar,def_p_15,0.8277077078819275,def,Baseline
+127,Radar,def_p_17,0.978737473487854,def,Baseline
+128,Radar,def_p_12,0.9399216175079346,def,Baseline
+129,Radar,def_p_16,0.9837870001792908,def,Baseline
+130,Radar,def_p_3,0.9530547857284546,def,Baseline
+131,Radar,def_p_18,0.8588223457336426,def,Baseline
+132,Radar,def_p_7,0.96479332447052,def,Baseline
+133,Radar,def_p_8,0.9801931977272034,def,Baseline
+134,Radar,def_p_6,0.9721335172653198,def,Baseline
+135,Radar,def_p_2,0.9882987141609192,def,Baseline
+136,Radar,def_p_5,0.98381108045578,def,Baseline
+137,Radar,def_p_4,0.8647840023040771,def,Baseline
+138,Radar,def_p_19,0.954501450061798,def,Baseline
+139,Radar,def_p_9,0.9856060743331908,def,Baseline
+140,Radar,par_p_0,0.5150655508041382,par,Basic paraphrase(Parrot library)
+141,Radar,par_p_11,0.8661618828773499,par,Basic paraphrase(Parrot library)
+142,Radar,par_p_10,0.2546177804470062,par,Basic paraphrase(Parrot library)
+143,Radar,par_p_1,0.8857256174087524,par,Basic paraphrase(Parrot library)
+144,Radar,par_p_12,0.5452251434326172,par,Basic paraphrase(Parrot library)
+145,Radar,par_p_15,0.2424802333116531,par,Basic paraphrase(Parrot library)
+146,Radar,par_p_14,0.713643491268158,par,Basic paraphrase(Parrot library)
+147,Radar,par_p_13,0.7942737340927124,par,Basic paraphrase(Parrot library)
+148,Radar,par_p_16,0.8962952494621277,par,Basic paraphrase(Parrot library)
+149,Radar,par_p_17,0.7795990705490112,par,Basic paraphrase(Parrot library)
+150,Radar,par_p_6,0.777111291885376,par,Basic paraphrase(Parrot library)
+151,Radar,par_p_3,0.7154075503349304,par,Basic paraphrase(Parrot library)
+152,Radar,par_p_18,0.6155692338943481,par,Basic paraphrase(Parrot library)
+153,Radar,par_p_5,0.9728246331214904,par,Basic paraphrase(Parrot library)
+154,Radar,par_p_19,0.6519497036933899,par,Basic paraphrase(Parrot library)
+155,Radar,par_p_4,0.8467580080032349,par,Basic paraphrase(Parrot library)
+156,Radar,par_p_2,0.9620696306228638,par,Basic paraphrase(Parrot library)
+157,Radar,par_p_7,0.8205621242523193,par,Basic paraphrase(Parrot library)
+158,Radar,par_p_8,0.8048785924911499,par,Basic paraphrase(Parrot library)
+159,Radar,par_p_9,0.9570351243019104,par,Basic paraphrase(Parrot library)
+160,Radar,quil_p_11,0.8720871210098267,quil,Quillbot paraphrase
+161,Radar,quil_p_10,0.7625765204429626,quil,Quillbot paraphrase
+162,Radar,quil_p_13,0.6029938459396362,quil,Quillbot paraphrase
+163,Radar,quil_p_1,0.6429058313369751,quil,Quillbot paraphrase
+164,Radar,quil_p_14,0.4797238409519195,quil,Quillbot paraphrase
+165,Radar,quil_p_0,0.4349741339683532,quil,Quillbot paraphrase
+166,Radar,quil_p_12,0.5671300292015076,quil,Quillbot paraphrase
+167,Radar,quil_p_15,0.2748667299747467,quil,Quillbot paraphrase
+168,Radar,quil_p_16,0.847193717956543,quil,Quillbot paraphrase
+169,Radar,quil_p_17,0.7311354875564575,quil,Quillbot paraphrase
+170,Radar,quil_p_18,0.4353213608264923,quil,Quillbot paraphrase
+171,Radar,quil_p_19,0.6706023216247559,quil,Quillbot paraphrase
+172,Radar,quil_p_4,0.5122271776199341,quil,Quillbot paraphrase
+173,Radar,quil_p_2,0.930232584476471,quil,Quillbot paraphrase
+174,Radar,quil_p_6,0.7210677862167358,quil,Quillbot paraphrase
+175,Radar,quil_p_3,0.8580984473228455,quil,Quillbot paraphrase
+176,Radar,quil_p_5,0.9023685455322266,quil,Quillbot paraphrase
+177,Radar,quil_p_7,0.8175307512283325,quil,Quillbot paraphrase
+178,Radar,quil_p_8,0.9048402309417723,quil,Quillbot paraphrase
+179,Radar,quil_p_9,0.5409331321716309,quil,Quillbot paraphrase
+180,CopyLeaks,def_p_10,1.0,def,Baseline
+181,CopyLeaks,def_p_16,1.0,def,Baseline
+182,CopyLeaks,def_p_12,1.0,def,Baseline
+183,CopyLeaks,def_p_1,1.0,def,Baseline
+184,CopyLeaks,def_p_14,1.0,def,Baseline
+185,CopyLeaks,def_p_17,1.0,def,Baseline
+186,CopyLeaks,def_p_13,1.0,def,Baseline
+187,CopyLeaks,def_p_0,1.0,def,Baseline
+188,CopyLeaks,def_p_11,1.0,def,Baseline
+189,CopyLeaks,def_p_15,1.0,def,Baseline
+190,CopyLeaks,def_p_7,1.0,def,Baseline
+191,CopyLeaks,def_p_3,1.0,def,Baseline
+192,CopyLeaks,def_p_18,1.0,def,Baseline
+193,CopyLeaks,def_p_5,1.0,def,Baseline
+194,CopyLeaks,def_p_6,1.0,def,Baseline
+195,CopyLeaks,def_p_19,1.0,def,Baseline
+196,CopyLeaks,def_p_9,1.0,def,Baseline
+197,CopyLeaks,def_p_4,1.0,def,Baseline
+198,CopyLeaks,def_p_2,1.0,def,Baseline
+199,CopyLeaks,def_p_8,1.0,def,Baseline
+200,CopyLeaks,par_p_0,1.0,par,Basic paraphrase(Parrot library)
+201,CopyLeaks,par_p_10,1.0,par,Basic paraphrase(Parrot library)
+202,CopyLeaks,par_p_15,1.0,par,Basic paraphrase(Parrot library)
+203,CopyLeaks,par_p_13,1.0,par,Basic paraphrase(Parrot library)
+204,CopyLeaks,par_p_11,1.0,par,Basic paraphrase(Parrot library)
+205,CopyLeaks,par_p_16,1.0,par,Basic paraphrase(Parrot library)
+206,CopyLeaks,par_p_1,1.0,par,Basic paraphrase(Parrot library)
+207,CopyLeaks,par_p_17,0.71365637,par,Basic paraphrase(Parrot library)
+208,CopyLeaks,par_p_12,1.0,par,Basic paraphrase(Parrot library)
+209,CopyLeaks,par_p_19,1.0,par,Basic paraphrase(Parrot library)
+210,CopyLeaks,par_p_2,1.0,par,Basic paraphrase(Parrot library)
+211,CopyLeaks,par_p_3,1.0,par,Basic paraphrase(Parrot library)
+212,CopyLeaks,par_p_5,1.0,par,Basic paraphrase(Parrot library)
+213,CopyLeaks,par_p_4,1.0,par,Basic paraphrase(Parrot library)
+214,CopyLeaks,par_p_6,1.0,par,Basic paraphrase(Parrot library)
+215,CopyLeaks,par_p_9,1.0,par,Basic paraphrase(Parrot library)
+216,CopyLeaks,quil_p_1,1.0,quil,Quillbot paraphrase
+217,CopyLeaks,par_p_7,0.79464287,par,Basic paraphrase(Parrot library)
+218,CopyLeaks,quil_p_0,1.0,quil,Quillbot paraphrase
+219,CopyLeaks,par_p_8,1.0,par,Basic paraphrase(Parrot library)
+220,CopyLeaks,quil_p_11,1.0,quil,Quillbot paraphrase
+221,CopyLeaks,quil_p_10,1.0,quil,Quillbot paraphrase
+222,CopyLeaks,quil_p_13,1.0,quil,Quillbot paraphrase
+223,CopyLeaks,par_p_18,0.8018868,par,Basic paraphrase(Parrot library)
+224,CopyLeaks,quil_p_12,1.0,quil,Quillbot paraphrase
+225,CopyLeaks,quil_p_16,1.0,quil,Quillbot paraphrase
+226,CopyLeaks,quil_p_14,1.0,quil,Quillbot paraphrase
+227,CopyLeaks,quil_p_18,0.7995546,quil,Quillbot paraphrase
+228,CopyLeaks,quil_p_19,1.0,quil,Quillbot paraphrase
+229,CopyLeaks,quil_p_15,0.6888412,quil,Quillbot paraphrase
+230,CopyLeaks,par_p_14,0.38148984,par,Basic paraphrase(Parrot library)
+231,CopyLeaks,quil_p_17,0.7245119,quil,Quillbot paraphrase
+232,CopyLeaks,quil_p_4,0.76119405,quil,Quillbot paraphrase
+233,CopyLeaks,quil_p_6,1.0,quil,Quillbot paraphrase
+234,CopyLeaks,quil_p_5,1.0,quil,Quillbot paraphrase
+235,CopyLeaks,quil_p_9,1.0,quil,Quillbot paraphrase
+236,CopyLeaks,quil_p_8,0.59342915,quil,Quillbot paraphrase
+237,CopyLeaks,quil_p_7,1.0,quil,Quillbot paraphrase
+238,CopyLeaks,quil_p_2,0.7823409,quil,Quillbot paraphrase
+239,CopyLeaks,quil_p_3,0.7364017,quil,Quillbot paraphrase

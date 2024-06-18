@@ -1,0 +1,17 @@
+Global warming is a pressing issue that has gained significant attention in recent years due to its detrimental effects on the climate and environment. While global warming is primarily caused by the release of greenhouse gases into the atmosphere from various sources, individual acts also play a significant role in exacerbating this problem. This essay will discuss some of the key individual acts that lead to global warming and their impact on the environment.
+
+One of the most significant individual acts that contribute to global warming is the excessive use of fossil fuels for transportation. According to 2018 data from the Environmental Protection Agency (EPA), the transportation sector is responsible for around 28% of greenhouse gas emissions in the United States. The combustion of fossil fuels in cars, trucks, and airplanes releases carbon dioxide into the atmosphere, which contributes to the greenhouse effect and global warming (EPA, 2018). Individuals can reduce their carbon footprint by choosing more sustainable transportation options such as walking, biking, carpooling, or using public transportation.
+
+Another individual act that contributes to global warming is the overconsumption of meat and dairy products. Livestock agriculture is a significant source of methane emissions, a potent greenhouse gas that is more than 25 times as effective as carbon dioxide at trapping heat in the atmosphere (IPCC, 2019). The production of meat and dairy products also requires a significant amount of water and land, leading to deforestation and habitat destruction. By reducing their meat and dairy consumption, individuals can help reduce their carbon footprint and lessen the impact of livestock agriculture on the environment.
+
+Individuals also contribute to global warming through their energy consumption habits. The use of electricity generated from fossil fuels such as coal and natural gas releases carbon dioxide into the atmosphere, contributing to global warming. By reducing energy consumption and switching to renewable energy sources such as solar or wind power, individuals can reduce their carbon footprint and help mitigate the effects of global warming (EIA, 2020).
+
+In conclusion, individual acts such as excessive transportation, overconsumption of meat and dairy products, and energy consumption habits play a significant role in contributing to global warming. By making small changes to daily habits and lifestyles, individuals can help reduce their carbon footprint and lessen the impact of climate change on the environment. It is crucial for individuals to be aware of the consequences of their actions and strive to make more sustainable choices to combat global warming.
+
+References:
+
+Environmental Protection Agency (EPA). (2018). Greenhouse Gas Emissions from a Typical Passenger Vehicle. Retrieved from https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle
+
+Intergovernmental Panel on Climate Change (IPCC). (2019). Climate Change and Land: an IPCC special report. Retrieved from https://www.ipcc.ch/srccl/
+
+U.S. Energy Information Administration (EIA). (2020). Types of Electricity Generating Sources. Retrieved from https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php

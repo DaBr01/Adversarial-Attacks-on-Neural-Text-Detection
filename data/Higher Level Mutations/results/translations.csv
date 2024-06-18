@@ -1,0 +1,401 @@
+,detector,text_id,score,mutation,mutation_name
+0,GPTZero,def_p_16,0.9826080317224812,def,Baseline
+1,GPTZero,def_p_14,0.9977558223168834,def,Baseline
+2,GPTZero,def_p_1,0.9977558223168834,def,Baseline
+3,GPTZero,def_p_11,0.9973955738343496,def,Baseline
+4,GPTZero,def_p_15,0.9092670190856504,def,Baseline
+5,GPTZero,def_p_13,1.0,def,Baseline
+6,GPTZero,def_p_17,0.9977558223168834,def,Baseline
+7,GPTZero,def_p_12,0.9977558223168834,def,Baseline
+8,GPTZero,def_p_0,0.9977558223168834,def,Baseline
+9,GPTZero,def_p_10,0.9977775103937532,def,Baseline
+10,GPTZero,def_p_19,0.9820821274401206,def,Baseline
+11,GPTZero,def_p_4,0.9977558223168834,def,Baseline
+12,GPTZero,def_p_7,1.0,def,Baseline
+13,GPTZero,def_p_8,0.9977558223168834,def,Baseline
+14,GPTZero,def_p_2,1.0,def,Baseline
+15,GPTZero,def_p_18,0.9826080317224812,def,Baseline
+16,GPTZero,def_p_3,0.9977558223168834,def,Baseline
+17,GPTZero,def_p_6,0.9977775103937532,def,Baseline
+18,GPTZero,def_p_9,0.9973955738343496,def,Baseline
+19,GPTZero,def_p_5,0.9973955738343496,def,Baseline
+40,GPTZero,tr_ar_p_0,0.9092670190856504,tr_ar,translation arabic
+41,GPTZero,tr_ar_p_1,0.9250629722921914,tr_ar,translation arabic
+42,GPTZero,tr_ar_p_10,0.9977558223168834,tr_ar,translation arabic
+43,GPTZero,tr_ar_p_12,0.982932157729323,tr_ar,translation arabic
+44,GPTZero,tr_ar_p_11,0.9092670190856504,tr_ar,translation arabic
+45,GPTZero,tr_ar_p_14,0.9973955738343496,tr_ar,translation arabic
+46,GPTZero,tr_ar_p_17,0.9977558223168834,tr_ar,translation arabic
+47,GPTZero,tr_ar_p_16,0.982932157729323,tr_ar,translation arabic
+48,GPTZero,tr_ar_p_13,0.982932157729323,tr_ar,translation arabic
+49,GPTZero,tr_ar_p_15,0.6036507066806989,tr_ar,translation arabic
+50,GPTZero,tr_ar_p_19,0.9825825322814176,tr_ar,translation arabic
+51,GPTZero,tr_ar_p_18,1.0,tr_ar,translation arabic
+52,GPTZero,tr_ar_p_3,0.982932157729323,tr_ar,translation arabic
+53,GPTZero,tr_ar_p_4,0.9109374343376851,tr_ar,translation arabic
+54,GPTZero,tr_ar_p_5,0.9104753354570072,tr_ar,translation arabic
+55,GPTZero,tr_ar_p_6,0.9977558223168834,tr_ar,translation arabic
+56,GPTZero,tr_ar_p_2,1.0,tr_ar,translation arabic
+57,GPTZero,tr_ar_p_7,1.0,tr_ar,translation arabic
+58,GPTZero,tr_chi_p_0,0.8223915592028135,tr_chi,translation chinese
+59,GPTZero,tr_chi_p_1,0.9106245014028448,tr_chi,translation chinese
+60,GPTZero,tr_ar_p_8,0.982251886615535,tr_ar,translation arabic
+61,GPTZero,tr_ar_p_9,0.9977558223168834,tr_ar,translation arabic
+62,GPTZero,tr_chi_p_10,0.915173930512831,tr_chi,translation chinese
+63,GPTZero,tr_chi_p_12,0.9106245014028448,tr_chi,translation chinese
+64,GPTZero,tr_chi_p_11,0.9104753354570072,tr_chi,translation chinese
+65,GPTZero,tr_chi_p_13,0.9977558223168834,tr_chi,translation chinese
+66,GPTZero,tr_chi_p_15,0.8234289035940133,tr_chi,translation chinese
+67,GPTZero,tr_chi_p_18,1.0,tr_chi,translation chinese
+68,GPTZero,tr_chi_p_17,0.9977558223168834,tr_chi,translation chinese
+69,GPTZero,tr_chi_p_16,0.915630600561598,tr_chi,translation chinese
+70,GPTZero,tr_chi_p_14,0.9977558223168834,tr_chi,translation chinese
+71,GPTZero,tr_chi_p_19,0.9973955738343496,tr_chi,translation chinese
+72,GPTZero,tr_chi_p_4,0.8235569534490451,tr_chi,translation chinese
+73,GPTZero,tr_chi_p_3,1.0,tr_chi,translation chinese
+74,GPTZero,tr_chi_p_5,0.9825825322814176,tr_chi,translation chinese
+75,GPTZero,tr_chi_p_2,1.0,tr_chi,translation chinese
+76,GPTZero,tr_chi_p_6,0.9977694266678764,tr_chi,translation chinese
+77,GPTZero,tr_chi_p_7,1.0,tr_chi,translation chinese
+78,GPTZero,tr_jap_p_0,0.982251886615535,tr_jap,translation japanese
+79,GPTZero,tr_chi_p_8,0.9973955738343496,tr_chi,translation chinese
+80,GPTZero,tr_chi_p_9,0.9825825322814176,tr_chi,translation chinese
+81,GPTZero,tr_jap_p_10,0.982932157729323,tr_jap,translation japanese
+82,GPTZero,tr_jap_p_12,0.9977558223168834,tr_jap,translation japanese
+83,GPTZero,tr_jap_p_11,0.8223915592028135,tr_jap,translation japanese
+84,GPTZero,tr_jap_p_13,0.9106245014028448,tr_jap,translation japanese
+85,GPTZero,tr_jap_p_1,0.9973955738343496,tr_jap,translation japanese
+86,GPTZero,tr_jap_p_14,0.9826080317224812,tr_jap,translation japanese
+87,GPTZero,tr_jap_p_16,0.8235569534490451,tr_jap,translation japanese
+88,GPTZero,tr_jap_p_17,0.828841068439312,tr_jap,translation japanese
+89,GPTZero,tr_jap_p_15,0.8223915592028135,tr_jap,translation japanese
+90,GPTZero,tr_jap_p_19,0.9973955738343496,tr_jap,translation japanese
+91,GPTZero,tr_jap_p_18,1.0,tr_jap,translation japanese
+92,GPTZero,tr_jap_p_3,1.0,tr_jap,translation japanese
+93,GPTZero,tr_jap_p_2,1.0,tr_jap,translation japanese
+94,GPTZero,tr_jap_p_4,0.8235569534490451,tr_jap,translation japanese
+95,GPTZero,tr_jap_p_6,1.0,tr_jap,translation japanese
+96,GPTZero,tr_jap_p_5,0.9973955738343496,tr_jap,translation japanese
+97,GPTZero,tr_jap_p_7,1.0,tr_jap,translation japanese
+98,GPTZero,tr_jap_p_8,0.9977775103937532,tr_jap,translation japanese
+99,GPTZero,tr_jap_p_9,0.9825825322814176,tr_jap,translation japanese
+100,GPTZero,tr_rus_p_0,0.9092670190856504,tr_rus,translation russian
+101,GPTZero,tr_rus_p_10,0.9977558223168834,tr_rus,translation russian
+102,GPTZero,tr_rus_p_11,0.9092670190856504,tr_rus,translation russian
+103,GPTZero,tr_rus_p_1,0.4448765242225371,tr_rus,translation russian
+104,GPTZero,tr_rus_p_12,0.982932157729323,tr_rus,translation russian
+105,GPTZero,tr_rus_p_14,0.9825825322814176,tr_rus,translation russian
+106,GPTZero,tr_rus_p_16,0.982932157729323,tr_rus,translation russian
+107,GPTZero,tr_rus_p_17,0.9977558223168834,tr_rus,translation russian
+108,GPTZero,tr_rus_p_13,0.982932157729323,tr_rus,translation russian
+109,GPTZero,tr_rus_p_15,0.6761725657506947,tr_rus,translation russian
+110,GPTZero,tr_rus_p_18,1.0,tr_rus,translation russian
+111,GPTZero,tr_rus_p_19,0.9825825322814176,tr_rus,translation russian
+112,GPTZero,tr_rus_p_2,1.0,tr_rus,translation russian
+113,GPTZero,tr_rus_p_4,0.982932157729323,tr_rus,translation russian
+114,GPTZero,tr_rus_p_3,0.982932157729323,tr_rus,translation russian
+115,GPTZero,tr_rus_p_5,0.9122259726882967,tr_rus,translation russian
+116,GPTZero,tr_rus_p_6,0.9977558223168834,tr_rus,translation russian
+117,GPTZero,tr_rus_p_7,1.0,tr_rus,translation russian
+118,GPTZero,tr_rus_p_8,0.982932157729323,tr_rus,translation russian
+119,GPTZero,tr_rus_p_9,0.9977558223168834,tr_rus,translation russian
+120,GPT2Detector,def_p_0,0.999816596508026,def,Baseline
+121,GPT2Detector,def_p_15,0.9997853636741638,def,Baseline
+122,GPT2Detector,def_p_12,0.9998130202293396,def,Baseline
+123,GPT2Detector,def_p_13,0.9998218417167664,def,Baseline
+124,GPT2Detector,def_p_10,0.9998106360435486,def,Baseline
+125,GPT2Detector,def_p_11,0.9997974038124084,def,Baseline
+126,GPT2Detector,def_p_14,0.9998146891593932,def,Baseline
+127,GPT2Detector,def_p_1,0.9996094107627868,def,Baseline
+128,GPT2Detector,def_p_16,0.9998252987861632,def,Baseline
+129,GPT2Detector,def_p_17,0.9824897050857544,def,Baseline
+130,GPT2Detector,def_p_18,0.999794065952301,def,Baseline
+131,GPT2Detector,def_p_19,0.9984757304191588,def,Baseline
+132,GPT2Detector,def_p_2,0.999826729297638,def,Baseline
+133,GPT2Detector,def_p_3,0.1552187204360962,def,Baseline
+134,GPT2Detector,def_p_4,0.9997993111610411,def,Baseline
+135,GPT2Detector,def_p_7,0.9998188614845276,def,Baseline
+136,GPT2Detector,def_p_5,0.9998260140419006,def,Baseline
+137,GPT2Detector,def_p_6,0.9998071789741516,def,Baseline
+140,GPT2Detector,def_p_9,0.9997865557670592,def,Baseline
+141,GPT2Detector,def_p_8,0.9994348883628844,def,Baseline
+159,GPT2Detector,tr_ar_p_11,0.9930852651596068,tr_ar,translation arabic
+161,GPT2Detector,tr_ar_p_10,0.3901407122611999,tr_ar,translation arabic
+162,GPT2Detector,tr_ar_p_0,0.7260570526123047,tr_ar,translation arabic
+163,GPT2Detector,tr_ar_p_12,0.9454762935638428,tr_ar,translation arabic
+164,GPT2Detector,tr_ar_p_1,0.9997919201850892,tr_ar,translation arabic
+165,GPT2Detector,tr_ar_p_17,0.0002091526985168,tr_ar,translation arabic
+166,GPT2Detector,tr_ar_p_14,0.0037054419517517,tr_ar,translation arabic
+167,GPT2Detector,tr_ar_p_13,0.0001766085624694,tr_ar,translation arabic
+168,GPT2Detector,tr_ar_p_15,0.0292560458183288,tr_ar,translation arabic
+169,GPT2Detector,tr_ar_p_16,0.1744298934936523,tr_ar,translation arabic
+170,GPT2Detector,tr_ar_p_19,0.0001909136772155,tr_ar,translation arabic
+171,GPT2Detector,tr_ar_p_3,0.0001708269119262,tr_ar,translation arabic
+172,GPT2Detector,tr_ar_p_18,0.7215244770050049,tr_ar,translation arabic
+173,GPT2Detector,tr_ar_p_2,0.9943239688873292,tr_ar,translation arabic
+174,GPT2Detector,tr_ar_p_5,0.9961360096931458,tr_ar,translation arabic
+175,GPT2Detector,tr_ar_p_4,0.9966710209846495,tr_ar,translation arabic
+176,GPT2Detector,tr_chi_p_1,0.9492457509040833,tr_chi,translation chinese
+177,GPT2Detector,tr_ar_p_7,0.9571590423583984,tr_ar,translation arabic
+178,GPT2Detector,tr_ar_p_6,0.0053468942642211,tr_ar,translation arabic
+179,GPT2Detector,tr_chi_p_0,0.9354079961776732,tr_chi,translation chinese
+180,GPT2Detector,tr_ar_p_9,0.9998169541358948,tr_ar,translation arabic
+181,GPT2Detector,tr_ar_p_8,0.1410096883773803,tr_ar,translation arabic
+182,GPT2Detector,tr_chi_p_12,0.1014909744262695,tr_chi,translation chinese
+183,GPT2Detector,tr_chi_p_10,0.9650205373764038,tr_chi,translation chinese
+184,GPT2Detector,tr_chi_p_14,0.8296331763267517,tr_chi,translation chinese
+185,GPT2Detector,tr_chi_p_11,0.9992015957832336,tr_chi,translation chinese
+186,GPT2Detector,tr_chi_p_13,0.9637850522994996,tr_chi,translation chinese
+187,GPT2Detector,tr_chi_p_2,0.9998213648796082,tr_chi,translation chinese
+188,GPT2Detector,tr_chi_p_17,0.1436219811439514,tr_chi,translation chinese
+189,GPT2Detector,tr_chi_p_15,0.388485848903656,tr_chi,translation chinese
+190,GPT2Detector,tr_chi_p_16,0.999440610408783,tr_chi,translation chinese
+191,GPT2Detector,tr_chi_p_18,0.9990623593330384,tr_chi,translation chinese
+192,GPT2Detector,tr_chi_p_19,0.3279452323913574,tr_chi,translation chinese
+193,GPT2Detector,tr_chi_p_4,0.8072082996368408,tr_chi,translation chinese
+194,GPT2Detector,tr_chi_p_3,0.982131838798523,tr_chi,translation chinese
+195,GPT2Detector,tr_chi_p_7,0.9950748085975648,tr_chi,translation chinese
+196,GPT2Detector,tr_chi_p_5,0.9998108744621276,tr_chi,translation chinese
+197,GPT2Detector,tr_chi_p_8,0.1005671620368957,tr_chi,translation chinese
+198,GPT2Detector,tr_chi_p_6,0.9998180270195008,tr_chi,translation chinese
+199,GPT2Detector,tr_chi_p_9,0.9997959733009338,tr_chi,translation chinese
+200,GPT2Detector,tr_jap_p_11,0.3982604742050171,tr_jap,translation japanese
+201,GPT2Detector,tr_jap_p_0,0.9974405765533448,tr_jap,translation japanese
+202,GPT2Detector,tr_jap_p_1,0.976798415184021,tr_jap,translation japanese
+203,GPT2Detector,tr_jap_p_10,0.0253522396087646,tr_jap,translation japanese
+204,GPT2Detector,tr_jap_p_13,0.0002070069313049,tr_jap,translation japanese
+205,GPT2Detector,tr_jap_p_12,0.0129452943801879,tr_jap,translation japanese
+206,GPT2Detector,tr_jap_p_18,0.9997828602790833,tr_jap,translation japanese
+207,GPT2Detector,tr_jap_p_15,0.9990115165710448,tr_jap,translation japanese
+208,GPT2Detector,tr_jap_p_14,0.000986099243164,tr_jap,translation japanese
+209,GPT2Detector,tr_jap_p_4,0.8437976837158203,tr_jap,translation japanese
+210,GPT2Detector,tr_jap_p_17,0.0003736019134521,tr_jap,translation japanese
+211,GPT2Detector,tr_jap_p_16,0.9997043013572692,tr_jap,translation japanese
+212,GPT2Detector,tr_jap_p_2,0.988902986049652,tr_jap,translation japanese
+213,GPT2Detector,tr_jap_p_19,0.0248829722404479,tr_jap,translation japanese
+214,GPT2Detector,tr_jap_p_3,0.0001741051673889,tr_jap,translation japanese
+215,GPT2Detector,tr_jap_p_6,0.0106285810470581,tr_jap,translation japanese
+216,GPT2Detector,tr_jap_p_5,0.1487895846366882,tr_jap,translation japanese
+217,GPT2Detector,tr_jap_p_9,0.9998263716697692,tr_jap,translation japanese
+218,GPT2Detector,tr_jap_p_7,0.5200541019439697,tr_jap,translation japanese
+219,GPT2Detector,tr_jap_p_8,0.0001742243766784,tr_jap,translation japanese
+220,GPT2Detector,tr_rus_p_0,0.4761878848075866,tr_rus,translation russian
+221,GPT2Detector,tr_rus_p_1,0.9951978325843812,tr_rus,translation russian
+222,GPT2Detector,tr_rus_p_10,0.000786542892456,tr_rus,translation russian
+223,GPT2Detector,tr_rus_p_13,0.0003544092178344,tr_rus,translation russian
+224,GPT2Detector,tr_rus_p_11,0.7406814694404602,tr_rus,translation russian
+225,GPT2Detector,tr_rus_p_12,0.0520410537719726,tr_rus,translation russian
+226,GPT2Detector,tr_rus_p_15,0.0018237829208374,tr_rus,translation russian
+227,GPT2Detector,tr_rus_p_14,0.0001772046089172,tr_rus,translation russian
+228,GPT2Detector,tr_rus_p_16,0.9988719820976256,tr_rus,translation russian
+229,GPT2Detector,tr_rus_p_3,0.0002194046974182,tr_rus,translation russian
+230,GPT2Detector,tr_rus_p_6,0.0035310983657836,tr_rus,translation russian
+231,GPT2Detector,tr_rus_p_18,0.8748341798782349,tr_rus,translation russian
+232,GPT2Detector,tr_rus_p_17,0.0078899264335632,tr_rus,translation russian
+233,GPT2Detector,tr_rus_p_2,0.8920231461524963,tr_rus,translation russian
+234,GPT2Detector,tr_rus_p_19,0.0030571818351745,tr_rus,translation russian
+235,GPT2Detector,tr_rus_p_4,0.7972296476364136,tr_rus,translation russian
+236,GPT2Detector,tr_rus_p_5,0.8718584775924683,tr_rus,translation russian
+237,GPT2Detector,tr_rus_p_7,0.0115271210670471,tr_rus,translation russian
+238,GPT2Detector,tr_rus_p_8,0.0011047720909118,tr_rus,translation russian
+239,GPT2Detector,tr_rus_p_9,0.999714195728302,tr_rus,translation russian
+240,Radar,def_p_13,0.9742463231086732,def,Baseline
+241,Radar,def_p_0,0.9855750799179076,def,Baseline
+242,Radar,def_p_10,0.9735509753227234,def,Baseline
+243,Radar,def_p_12,0.964874804019928,def,Baseline
+244,Radar,def_p_1,0.987423062324524,def,Baseline
+245,Radar,def_p_15,0.9781188368797302,def,Baseline
+246,Radar,def_p_14,0.8890491724014282,def,Baseline
+247,Radar,def_p_11,0.9793117642402648,def,Baseline
+248,Radar,def_p_17,0.9893447160720824,def,Baseline
+249,Radar,def_p_16,0.9903183579444884,def,Baseline
+250,Radar,def_p_18,0.9676729440689088,def,Baseline
+251,Radar,def_p_7,0.9645201563835144,def,Baseline
+252,Radar,def_p_4,0.9695823192596436,def,Baseline
+253,Radar,def_p_19,0.9649989604949952,def,Baseline
+254,Radar,def_p_3,0.9837771654129028,def,Baseline
+255,Radar,def_p_2,0.973565936088562,def,Baseline
+256,Radar,def_p_6,0.959034025669098,def,Baseline
+257,Radar,def_p_8,0.990863025188446,def,Baseline
+258,Radar,def_p_5,0.96542626619339,def,Baseline
+259,Radar,def_p_9,0.9657627940177916,def,Baseline
+280,Radar,tr_ar_p_0,0.9194462895393372,tr_ar,translation arabic
+281,Radar,tr_ar_p_1,0.9580983519554138,tr_ar,translation arabic
+282,Radar,tr_ar_p_10,0.89256751537323,tr_ar,translation arabic
+283,Radar,tr_ar_p_11,0.9178436398506165,tr_ar,translation arabic
+284,Radar,tr_ar_p_12,0.8521918654441833,tr_ar,translation arabic
+285,Radar,tr_ar_p_13,0.9448716640472412,tr_ar,translation arabic
+286,Radar,tr_ar_p_14,0.5971494913101196,tr_ar,translation arabic
+287,Radar,tr_ar_p_15,0.979490339756012,tr_ar,translation arabic
+288,Radar,tr_ar_p_16,0.9848369359970092,tr_ar,translation arabic
+289,Radar,tr_ar_p_17,0.9749573469161988,tr_ar,translation arabic
+290,Radar,tr_ar_p_18,0.7498636841773987,tr_ar,translation arabic
+291,Radar,tr_ar_p_19,0.6986076831817627,tr_ar,translation arabic
+292,Radar,tr_ar_p_3,0.94035005569458,tr_ar,translation arabic
+293,Radar,tr_ar_p_2,0.9235166311264038,tr_ar,translation arabic
+294,Radar,tr_ar_p_6,0.7662034034729004,tr_ar,translation arabic
+295,Radar,tr_ar_p_4,0.8947734236717224,tr_ar,translation arabic
+296,Radar,tr_ar_p_5,0.9526099562644958,tr_ar,translation arabic
+297,Radar,tr_ar_p_7,0.8295217156410217,tr_ar,translation arabic
+298,Radar,tr_ar_p_8,0.9503554105758668,tr_ar,translation arabic
+299,Radar,tr_ar_p_9,0.8658847212791443,tr_ar,translation arabic
+300,Radar,tr_chi_p_0,0.8987408876419067,tr_chi,translation chinese
+301,Radar,tr_chi_p_1,0.9511657953262328,tr_chi,translation chinese
+302,Radar,tr_chi_p_10,0.8717719912528992,tr_chi,translation chinese
+303,Radar,tr_chi_p_11,0.8273037075996399,tr_chi,translation chinese
+304,Radar,tr_chi_p_12,0.8010731935501099,tr_chi,translation chinese
+305,Radar,tr_chi_p_13,0.969574809074402,tr_chi,translation chinese
+306,Radar,tr_chi_p_14,0.6431394815444946,tr_chi,translation chinese
+307,Radar,tr_chi_p_15,0.6769065260887146,tr_chi,translation chinese
+308,Radar,tr_chi_p_16,0.9784080982208252,tr_chi,translation chinese
+309,Radar,tr_chi_p_17,0.981481432914734,tr_chi,translation chinese
+310,Radar,tr_chi_p_19,0.7183206677436829,tr_chi,translation chinese
+311,Radar,tr_chi_p_18,0.8161025047302246,tr_chi,translation chinese
+312,Radar,tr_chi_p_2,0.9422032833099364,tr_chi,translation chinese
+313,Radar,tr_chi_p_3,0.9606987237930298,tr_chi,translation chinese
+314,Radar,tr_chi_p_4,0.8213096857070923,tr_chi,translation chinese
+315,Radar,tr_chi_p_5,0.9598570466041564,tr_chi,translation chinese
+316,Radar,tr_chi_p_6,0.8365745544433594,tr_chi,translation chinese
+317,Radar,tr_chi_p_7,0.8519603610038757,tr_chi,translation chinese
+318,Radar,tr_chi_p_8,0.966844379901886,tr_chi,translation chinese
+319,Radar,tr_chi_p_9,0.8432844281196594,tr_chi,translation chinese
+320,Radar,tr_jap_p_10,0.787577211856842,tr_jap,translation japanese
+321,Radar,tr_jap_p_0,0.910085678100586,tr_jap,translation japanese
+322,Radar,tr_jap_p_1,0.984495222568512,tr_jap,translation japanese
+323,Radar,tr_jap_p_11,0.9259562492370604,tr_jap,translation japanese
+324,Radar,tr_jap_p_12,0.830287516117096,tr_jap,translation japanese
+325,Radar,tr_jap_p_13,0.941242218017578,tr_jap,translation japanese
+326,Radar,tr_jap_p_14,0.7713687419891357,tr_jap,translation japanese
+327,Radar,tr_jap_p_15,0.9121689200401306,tr_jap,translation japanese
+328,Radar,tr_jap_p_16,0.973164975643158,tr_jap,translation japanese
+329,Radar,tr_jap_p_17,0.962096095085144,tr_jap,translation japanese
+330,Radar,tr_jap_p_2,0.9076323509216307,tr_jap,translation japanese
+331,Radar,tr_jap_p_19,0.7619513273239136,tr_jap,translation japanese
+332,Radar,tr_jap_p_18,0.8606017827987671,tr_jap,translation japanese
+333,Radar,tr_jap_p_3,0.9566064476966858,tr_jap,translation japanese
+334,Radar,tr_jap_p_5,0.9316250681877136,tr_jap,translation japanese
+335,Radar,tr_jap_p_4,0.8708698749542236,tr_jap,translation japanese
+336,Radar,tr_jap_p_6,0.7835601568222046,tr_jap,translation japanese
+337,Radar,tr_jap_p_7,0.8036206960678101,tr_jap,translation japanese
+338,Radar,tr_jap_p_8,0.9605149030685424,tr_jap,translation japanese
+339,Radar,tr_jap_p_9,0.8800686001777649,tr_jap,translation japanese
+340,Radar,tr_rus_p_1,0.9297814965248108,tr_rus,translation russian
+341,Radar,tr_rus_p_0,0.9481408596038818,tr_rus,translation russian
+342,Radar,tr_rus_p_10,0.9588306546211244,tr_rus,translation russian
+343,Radar,tr_rus_p_11,0.943483293056488,tr_rus,translation russian
+344,Radar,tr_rus_p_12,0.8998808264732361,tr_rus,translation russian
+345,Radar,tr_rus_p_13,0.9327661395072936,tr_rus,translation russian
+346,Radar,tr_rus_p_14,0.6352453231811523,tr_rus,translation russian
+347,Radar,tr_rus_p_15,0.9935846328735352,tr_rus,translation russian
+348,Radar,tr_rus_p_16,0.9837732911109924,tr_rus,translation russian
+349,Radar,tr_rus_p_17,0.9822993278503418,tr_rus,translation russian
+350,Radar,tr_rus_p_18,0.8313219547271729,tr_rus,translation russian
+351,Radar,tr_rus_p_19,0.7681514620780945,tr_rus,translation russian
+352,Radar,tr_rus_p_2,0.9546866416931152,tr_rus,translation russian
+353,Radar,tr_rus_p_3,0.9529448747634888,tr_rus,translation russian
+354,Radar,tr_rus_p_4,0.9443223476409912,tr_rus,translation russian
+355,Radar,tr_rus_p_5,0.9541188478469848,tr_rus,translation russian
+356,Radar,tr_rus_p_6,0.792458176612854,tr_rus,translation russian
+357,Radar,tr_rus_p_7,0.7338227033615112,tr_rus,translation russian
+358,Radar,tr_rus_p_8,0.9763103127479552,tr_rus,translation russian
+359,Radar,tr_rus_p_9,0.8212748765945435,tr_rus,translation russian
+360,CopyLeaks,def_p_12,1.0,def,Baseline
+361,CopyLeaks,def_p_11,1.0,def,Baseline
+362,CopyLeaks,def_p_13,1.0,def,Baseline
+363,CopyLeaks,def_p_1,1.0,def,Baseline
+364,CopyLeaks,def_p_10,1.0,def,Baseline
+365,CopyLeaks,def_p_15,1.0,def,Baseline
+366,CopyLeaks,def_p_16,1.0,def,Baseline
+367,CopyLeaks,def_p_0,1.0,def,Baseline
+368,CopyLeaks,def_p_17,1.0,def,Baseline
+369,CopyLeaks,def_p_14,1.0,def,Baseline
+370,CopyLeaks,def_p_2,1.0,def,Baseline
+371,CopyLeaks,def_p_18,1.0,def,Baseline
+372,CopyLeaks,def_p_3,1.0,def,Baseline
+373,CopyLeaks,def_p_19,1.0,def,Baseline
+377,CopyLeaks,def_p_4,1.0,def,Baseline
+380,CopyLeaks,def_p_5,1.0,def,Baseline
+381,CopyLeaks,def_p_7,1.0,def,Baseline
+382,CopyLeaks,def_p_6,1.0,def,Baseline
+384,CopyLeaks,def_p_8,1.0,def,Baseline
+386,CopyLeaks,def_p_9,1.0,def,Baseline
+399,CopyLeaks,tr_ar_p_11,1.0,tr_ar,translation arabic
+400,CopyLeaks,tr_ar_p_0,0.777042,tr_ar,translation arabic
+401,CopyLeaks,tr_ar_p_15,0.0,tr_ar,translation arabic
+402,CopyLeaks,tr_ar_p_10,1.0,tr_ar,translation arabic
+403,CopyLeaks,tr_ar_p_1,1.0,tr_ar,translation arabic
+404,CopyLeaks,tr_ar_p_13,1.0,tr_ar,translation arabic
+405,CopyLeaks,tr_ar_p_12,1.0,tr_ar,translation arabic
+406,CopyLeaks,tr_ar_p_18,1.0,tr_ar,translation arabic
+407,CopyLeaks,tr_ar_p_16,1.0,tr_ar,translation arabic
+408,CopyLeaks,tr_ar_p_2,1.0,tr_ar,translation arabic
+409,CopyLeaks,tr_ar_p_4,0.47311828,tr_ar,translation arabic
+411,CopyLeaks,tr_ar_p_17,0.75,tr_ar,translation arabic
+412,CopyLeaks,tr_ar_p_19,1.0,tr_ar,translation arabic
+413,CopyLeaks,tr_ar_p_14,0.7677262,tr_ar,translation arabic
+414,CopyLeaks,tr_ar_p_5,1.0,tr_ar,translation arabic
+415,CopyLeaks,tr_ar_p_3,0.77163464,tr_ar,translation arabic
+416,CopyLeaks,tr_chi_p_11,0.7113636,tr_chi,translation chinese
+417,CopyLeaks,tr_ar_p_7,0.72727275,tr_ar,translation arabic
+418,CopyLeaks,tr_chi_p_10,1.0,tr_chi,translation chinese
+419,CopyLeaks,tr_ar_p_6,0.73399013,tr_ar,translation arabic
+420,CopyLeaks,tr_ar_p_8,0.79357797,tr_ar,translation arabic
+421,CopyLeaks,tr_ar_p_9,1.0,tr_ar,translation arabic
+422,CopyLeaks,tr_chi_p_1,1.0,tr_chi,translation chinese
+423,CopyLeaks,tr_chi_p_0,1.0,tr_chi,translation chinese
+424,CopyLeaks,tr_chi_p_12,1.0,tr_chi,translation chinese
+425,CopyLeaks,tr_chi_p_17,0.7125891,tr_chi,translation chinese
+426,CopyLeaks,tr_chi_p_13,1.0,tr_chi,translation chinese
+427,CopyLeaks,tr_chi_p_15,0.28277636,tr_chi,translation chinese
+428,CopyLeaks,tr_chi_p_16,1.0,tr_chi,translation chinese
+429,CopyLeaks,tr_chi_p_19,1.0,tr_chi,translation chinese
+430,CopyLeaks,tr_chi_p_14,0.77386934,tr_chi,translation chinese
+431,CopyLeaks,tr_chi_p_6,1.0,tr_chi,translation chinese
+432,CopyLeaks,tr_chi_p_3,1.0,tr_chi,translation chinese
+433,CopyLeaks,tr_chi_p_5,1.0,tr_chi,translation chinese
+434,CopyLeaks,tr_chi_p_2,1.0,tr_chi,translation chinese
+435,CopyLeaks,tr_chi_p_7,0.71929824,tr_chi,translation chinese
+436,CopyLeaks,tr_chi_p_18,0.55097085,tr_chi,translation chinese
+437,CopyLeaks,tr_chi_p_9,1.0,tr_chi,translation chinese
+438,CopyLeaks,tr_chi_p_8,1.0,tr_chi,translation chinese
+439,CopyLeaks,tr_jap_p_0,0.48873875,tr_jap,translation japanese
+440,CopyLeaks,tr_jap_p_13,1.0,tr_jap,translation japanese
+441,CopyLeaks,tr_chi_p_4,0.47272727,tr_chi,translation chinese
+442,CopyLeaks,tr_jap_p_1,1.0,tr_jap,translation japanese
+443,CopyLeaks,tr_jap_p_11,1.0,tr_jap,translation japanese
+444,CopyLeaks,tr_jap_p_12,1.0,tr_jap,translation japanese
+445,CopyLeaks,tr_jap_p_16,1.0,tr_jap,translation japanese
+446,CopyLeaks,tr_jap_p_10,0.7647059,tr_jap,translation japanese
+447,CopyLeaks,tr_jap_p_17,1.0,tr_jap,translation japanese
+448,CopyLeaks,tr_jap_p_14,0.77608144,tr_jap,translation japanese
+449,CopyLeaks,tr_jap_p_2,1.0,tr_jap,translation japanese
+450,CopyLeaks,tr_jap_p_19,1.0,tr_jap,translation japanese
+451,CopyLeaks,tr_jap_p_3,1.0,tr_jap,translation japanese
+452,CopyLeaks,tr_jap_p_18,0.55472636,tr_jap,translation japanese
+453,CopyLeaks,tr_jap_p_4,0.4746137,tr_jap,translation japanese
+454,CopyLeaks,tr_jap_p_8,1.0,tr_jap,translation japanese
+455,CopyLeaks,tr_jap_p_5,1.0,tr_jap,translation japanese
+456,CopyLeaks,tr_rus_p_0,1.0,tr_rus,translation russian
+457,CopyLeaks,tr_jap_p_7,0.7131783,tr_jap,translation japanese
+458,CopyLeaks,tr_jap_p_9,1.0,tr_jap,translation japanese
+459,CopyLeaks,tr_rus_p_1,1.0,tr_rus,translation russian
+460,CopyLeaks,tr_jap_p_15,0.51122195,tr_jap,translation japanese
+461,CopyLeaks,tr_rus_p_12,1.0,tr_rus,translation russian
+462,CopyLeaks,tr_rus_p_13,1.0,tr_rus,translation russian
+463,CopyLeaks,tr_rus_p_11,1.0,tr_rus,translation russian
+464,CopyLeaks,tr_jap_p_6,0.73934835,tr_jap,translation japanese
+465,CopyLeaks,tr_rus_p_10,1.0,tr_rus,translation russian
+466,CopyLeaks,tr_rus_p_17,1.0,tr_rus,translation russian
+467,CopyLeaks,tr_rus_p_2,1.0,tr_rus,translation russian
+468,CopyLeaks,tr_rus_p_18,0.5606796,tr_rus,translation russian
+469,CopyLeaks,tr_rus_p_14,1.0,tr_rus,translation russian
+470,CopyLeaks,tr_rus_p_16,1.0,tr_rus,translation russian
+471,CopyLeaks,tr_rus_p_15,0.66997516,tr_rus,translation russian
+472,CopyLeaks,tr_rus_p_5,1.0,tr_rus,translation russian
+473,CopyLeaks,tr_rus_p_19,1.0,tr_rus,translation russian
+474,CopyLeaks,tr_rus_p_4,0.7643312,tr_rus,translation russian
+475,CopyLeaks,tr_rus_p_3,0.76865673,tr_rus,translation russian
+476,CopyLeaks,tr_rus_p_6,0.7371007,tr_rus,translation russian
+477,CopyLeaks,tr_rus_p_9,1.0,tr_rus,translation russian
+478,CopyLeaks,tr_rus_p_8,0.79405034,tr_rus,translation russian
+479,CopyLeaks,tr_rus_p_7,0.0,tr_rus,translation russian

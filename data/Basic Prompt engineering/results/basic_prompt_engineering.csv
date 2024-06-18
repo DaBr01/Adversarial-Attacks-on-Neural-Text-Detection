@@ -1,0 +1,801 @@
+,detector,text_id,score,Prompt Experiment
+0,Radar,prt_avreg_p_12,0.727152407169342,Regen avoid detection
+1,Radar,prt_avreg_p_0,0.9124457240104676,Regen avoid detection
+2,Radar,prt_avreg_p_1,0.903384566307068,Regen avoid detection
+3,Radar,prt_avreg_p_11,0.841520369052887,Regen avoid detection
+4,Radar,prt_avreg_p_13,0.9517906308174132,Regen avoid detection
+5,Radar,prt_avreg_p_10,0.9674389958381652,Regen avoid detection
+6,Radar,prt_avreg_p_14,0.952106237411499,Regen avoid detection
+7,Radar,prt_avreg_p_16,0.9552868604660034,Regen avoid detection
+8,Radar,prt_avreg_p_15,0.7003651261329651,Regen avoid detection
+9,Radar,prt_avreg_p_17,0.8083720803260803,Regen avoid detection
+10,Radar,prt_avreg_p_4,0.6578720211982727,Regen avoid detection
+11,Radar,prt_avreg_p_19,0.7181539535522461,Regen avoid detection
+12,Radar,prt_avreg_p_2,0.9732503890991212,Regen avoid detection
+13,Radar,prt_avreg_p_8,0.9652658700942992,Regen avoid detection
+14,Radar,prt_avreg_p_5,0.8945176601409912,Regen avoid detection
+15,Radar,prt_avreg_p_18,0.960176944732666,Regen avoid detection
+16,Radar,prt_avreg_p_3,0.9772172570228576,Regen avoid detection
+17,Radar,prt_avreg_p_6,0.8753305077552795,Regen avoid detection
+18,Radar,prt_avreg_p_7,0.7964393496513367,Regen avoid detection
+19,Radar,prt_avreg_p_9,0.9519594311714172,Regen avoid detection
+20,Radar,prt_av_p_0,0.974409282207489,Avoid detection prompt
+21,Radar,prt_av_p_1,0.9637688398361206,Avoid detection prompt
+22,Radar,prt_av_p_16,0.9751176834106444,Avoid detection prompt
+23,Radar,prt_av_p_10,0.9866934418678284,Avoid detection prompt
+24,Radar,prt_av_p_14,0.9328563213348388,Avoid detection prompt
+25,Radar,prt_av_p_11,0.9543553590774536,Avoid detection prompt
+26,Radar,prt_av_p_15,0.9778586030006408,Avoid detection prompt
+27,Radar,prt_av_p_13,0.9908994436264038,Avoid detection prompt
+28,Radar,prt_av_p_12,0.8389087915420532,Avoid detection prompt
+29,Radar,prt_av_p_17,0.9817741513252258,Avoid detection prompt
+30,Radar,prt_av_p_18,0.9701232314109802,Avoid detection prompt
+31,Radar,prt_av_p_3,0.989096999168396,Avoid detection prompt
+32,Radar,prt_av_p_7,0.9912053346633912,Avoid detection prompt
+33,Radar,prt_av_p_4,0.9634120464324952,Avoid detection prompt
+34,Radar,prt_av_p_19,0.91908597946167,Avoid detection prompt
+35,Radar,prt_av_p_6,0.9698829054832458,Avoid detection prompt
+36,Radar,prt_av_p_2,0.9893136620521544,Avoid detection prompt
+37,Radar,prt_av_p_5,0.976360559463501,Avoid detection prompt
+38,Radar,prt_av_p_8,0.9878444075584412,Avoid detection prompt
+39,Radar,prt_av_p_9,0.9668790698051452,Avoid detection prompt
+40,Radar,prt_explreg_p_14,0.7279506921768188,Regen internet prompt
+41,Radar,prt_explreg_p_11,0.9514234662055968,Regen internet prompt
+42,Radar,prt_explreg_p_0,0.9443411231040956,Regen internet prompt
+43,Radar,prt_explreg_p_1,0.9704639315605164,Regen internet prompt
+44,Radar,prt_explreg_p_12,0.7580335736274719,Regen internet prompt
+45,Radar,prt_explreg_p_13,0.96855628490448,Regen internet prompt
+46,Radar,prt_explreg_p_10,0.8794606924057007,Regen internet prompt
+47,Radar,prt_explreg_p_15,0.81215900182724,Regen internet prompt
+48,Radar,prt_explreg_p_16,0.9184169173240662,Regen internet prompt
+49,Radar,prt_explreg_p_17,0.8400037884712219,Regen internet prompt
+50,Radar,prt_explreg_p_18,0.8153995871543884,Regen internet prompt
+51,Radar,prt_explreg_p_2,0.9480406045913696,Regen internet prompt
+52,Radar,prt_explreg_p_5,0.9352879524230956,Regen internet prompt
+53,Radar,prt_explreg_p_19,0.7676889896392822,Regen internet prompt
+54,Radar,prt_explreg_p_3,0.8709649443626404,Regen internet prompt
+55,Radar,prt_explreg_p_6,0.7310557961463928,Regen internet prompt
+56,Radar,prt_explreg_p_4,0.6675273776054382,Regen internet prompt
+57,Radar,prt_explreg_p_9,0.962965726852417,Regen internet prompt
+58,Radar,prt_explreg_p_7,0.8848446607589722,Regen internet prompt
+59,Radar,prt_explreg_p_8,0.921365201473236,Regen internet prompt
+60,Radar,prt_expl_p_0,0.9546027779579164,Internet prompt
+61,Radar,prt_expl_p_1,0.9775533080101012,Internet prompt
+62,Radar,prt_expl_p_10,0.9881189465522766,Internet prompt
+63,Radar,prt_expl_p_15,0.9788546562194824,Internet prompt
+64,Radar,prt_expl_p_11,0.9936509132385254,Internet prompt
+65,Radar,prt_expl_p_12,0.961704969406128,Internet prompt
+66,Radar,prt_expl_p_13,0.9736414551734924,Internet prompt
+67,Radar,prt_expl_p_14,0.9651346802711488,Internet prompt
+68,Radar,prt_expl_p_16,0.988092601299286,Internet prompt
+69,Radar,prt_expl_p_18,0.949213683605194,Internet prompt
+70,Radar,prt_expl_p_17,0.9845353960990906,Internet prompt
+71,Radar,prt_expl_p_19,0.8242824077606201,Internet prompt
+72,Radar,prt_expl_p_2,0.981701910495758,Internet prompt
+73,Radar,prt_expl_p_3,0.9741597771644592,Internet prompt
+74,Radar,prt_expl_p_4,0.9602642059326172,Internet prompt
+75,Radar,prt_expl_p_5,0.9883758425712584,Internet prompt
+76,Radar,prt_expl_p_6,0.9527247548103333,Internet prompt
+77,Radar,prt_expl_p_7,0.971909999847412,Internet prompt
+78,Radar,prt_expl_p_8,0.9875262975692748,Internet prompt
+79,Radar,prt_expl_p_9,0.991047501564026,Internet prompt
+80,Radar,prt_perplreg_p_0,0.9212979674339294,Regen perplexity prompt
+81,Radar,prt_perplreg_p_1,0.2459835261106491,Regen perplexity prompt
+82,Radar,prt_perplreg_p_10,0.907457947731018,Regen perplexity prompt
+83,Radar,prt_perplreg_p_11,0.7642816305160522,Regen perplexity prompt
+84,Radar,prt_perplreg_p_12,0.1973618119955063,Regen perplexity prompt
+85,Radar,prt_perplreg_p_14,0.6654406189918518,Regen perplexity prompt
+86,Radar,prt_perplreg_p_15,0.6523177623748779,Regen perplexity prompt
+87,Radar,prt_perplreg_p_13,0.6191728115081787,Regen perplexity prompt
+88,Radar,prt_perplreg_p_17,0.9010221362113952,Regen perplexity prompt
+89,Radar,prt_perplreg_p_16,0.9687176942825316,Regen perplexity prompt
+90,Radar,prt_perplreg_p_18,0.8822192549705505,Regen perplexity prompt
+91,Radar,prt_perplreg_p_19,0.319463700056076,Regen perplexity prompt
+92,Radar,prt_perplreg_p_2,0.9197804927825928,Regen perplexity prompt
+93,Radar,prt_perplreg_p_3,0.7899909615516663,Regen perplexity prompt
+94,Radar,prt_perplreg_p_7,0.9342471361160278,Regen perplexity prompt
+95,Radar,prt_perplreg_p_4,0.821192741394043,Regen perplexity prompt
+96,Radar,prt_perplreg_p_6,0.5127301216125488,Regen perplexity prompt
+97,Radar,prt_perplreg_p_5,0.9208630323410034,Regen perplexity prompt
+98,Radar,prt_perplreg_p_8,0.8839243650436401,Regen perplexity prompt
+99,Radar,prt_perpl_p_0,0.9764756560325624,Perplexity prompt
+100,Radar,prt_perplreg_p_9,0.7864495515823364,Regen perplexity prompt
+101,Radar,prt_perpl_p_1,0.988023579120636,Perplexity prompt
+102,Radar,prt_perpl_p_10,0.9880467653274536,Perplexity prompt
+103,Radar,prt_perpl_p_11,0.979198157787323,Perplexity prompt
+104,Radar,prt_perpl_p_16,0.98455548286438,Perplexity prompt
+105,Radar,prt_perpl_p_14,0.9101423025131226,Perplexity prompt
+106,Radar,prt_perpl_p_13,0.9766594767570496,Perplexity prompt
+107,Radar,prt_perpl_p_12,0.9705005884170532,Perplexity prompt
+108,Radar,prt_perpl_p_15,0.949773371219635,Perplexity prompt
+109,Radar,prt_perpl_p_19,0.9764100313186646,Perplexity prompt
+110,Radar,prt_perpl_p_17,0.9854981303215028,Perplexity prompt
+111,Radar,prt_perpl_p_18,0.9765849709510804,Perplexity prompt
+112,Radar,prt_perpl_p_2,0.9794937372207642,Perplexity prompt
+113,Radar,prt_perpl_p_3,0.962252140045166,Perplexity prompt
+114,Radar,prt_perpl_p_4,0.940073549747467,Perplexity prompt
+115,Radar,prt_perpl_p_5,0.96376770734787,Perplexity prompt
+116,Radar,prt_perpl_p_7,0.9691922664642334,Perplexity prompt
+117,Radar,prt_perpl_p_6,0.9253324270248412,Perplexity prompt
+118,Radar,prt_perpl_p_8,0.9931690096855164,Perplexity prompt
+119,Radar,prt_smareg_p_0,0.8491026759147644,Regen smart prompt
+120,Radar,prt_perpl_p_9,0.9755094647407532,Perplexity prompt
+121,Radar,prt_smareg_p_1,0.9629833102226256,Regen smart prompt
+122,Radar,prt_smareg_p_10,0.9898157715797424,Regen smart prompt
+123,Radar,prt_smareg_p_11,0.9380275011062622,Regen smart prompt
+124,Radar,prt_smareg_p_12,0.9035567045211792,Regen smart prompt
+125,Radar,prt_smareg_p_13,0.9778832197189332,Regen smart prompt
+126,Radar,prt_smareg_p_14,0.9766531586647034,Regen smart prompt
+127,Radar,prt_smareg_p_15,0.9716988205909728,Regen smart prompt
+128,Radar,prt_smareg_p_16,0.9885196089744568,Regen smart prompt
+129,Radar,prt_smareg_p_17,0.9831498265266418,Regen smart prompt
+130,Radar,prt_smareg_p_18,0.8038272857666016,Regen smart prompt
+131,Radar,prt_smareg_p_2,0.965125322341919,Regen smart prompt
+132,Radar,prt_smareg_p_19,0.7921545505523682,Regen smart prompt
+133,Radar,prt_smareg_p_3,0.9819309115409852,Regen smart prompt
+134,Radar,prt_smareg_p_4,0.7275133728981018,Regen smart prompt
+135,Radar,prt_smareg_p_5,0.9890073537826538,Regen smart prompt
+136,Radar,prt_smareg_p_6,0.8648892045021057,Regen smart prompt
+137,Radar,prt_smareg_p_7,0.8821203708648682,Regen smart prompt
+138,Radar,prt_smareg_p_8,0.9595929384231568,Regen smart prompt
+139,Radar,prt_smareg_p_9,0.96505868434906,Regen smart prompt
+140,Radar,prt_sma_p_0,0.9613415598869324,Smart prompt
+141,Radar,prt_sma_p_1,0.9865232706069946,Smart prompt
+142,Radar,prt_sma_p_10,0.994678556919098,Smart prompt
+143,Radar,prt_sma_p_11,0.9749431014060974,Smart prompt
+144,Radar,prt_sma_p_12,0.9819083213806152,Smart prompt
+145,Radar,prt_sma_p_13,0.992136001586914,Smart prompt
+146,Radar,prt_sma_p_14,0.952218770980835,Smart prompt
+147,Radar,prt_sma_p_15,0.9522902965545654,Smart prompt
+148,Radar,prt_sma_p_16,0.994390308856964,Smart prompt
+149,Radar,prt_sma_p_17,0.9759610891342164,Smart prompt
+150,Radar,prt_sma_p_3,0.992724061012268,Smart prompt
+151,Radar,prt_sma_p_18,0.9857922196388244,Smart prompt
+152,Radar,prt_sma_p_19,0.9839067459106444,Smart prompt
+153,Radar,prt_sma_p_2,0.9895669221878052,Smart prompt
+154,Radar,prt_sma_p_4,0.9814286231994628,Smart prompt
+155,Radar,prt_sma_p_5,0.9884370565414428,Smart prompt
+156,Radar,prt_sma_p_6,0.9068451523780824,Smart prompt
+157,Radar,prt_sma_p_7,0.9768691658973694,Smart prompt
+158,Radar,prt_sma_p_8,0.9917866587638856,Smart prompt
+159,Radar,prt_stdreg_p_10,0.9134495854377748,Baseline regen
+160,Radar,prt_sma_p_9,0.9704601168632508,Smart prompt
+161,Radar,prt_stdreg_p_1,0.7931029200553894,Baseline regen
+162,Radar,prt_stdreg_p_0,0.9542716145515442,Baseline regen
+163,Radar,prt_stdreg_p_11,0.9247259497642516,Baseline regen
+164,Radar,prt_stdreg_p_12,0.581045925617218,Baseline regen
+165,Radar,prt_stdreg_p_14,0.8398783802986145,Baseline regen
+166,Radar,prt_stdreg_p_13,0.923247456550598,Baseline regen
+167,Radar,prt_stdreg_p_16,0.9680752754211426,Baseline regen
+168,Radar,prt_stdreg_p_15,0.4803885519504547,Baseline regen
+169,Radar,prt_stdreg_p_17,0.925268054008484,Baseline regen
+170,Radar,prt_stdreg_p_2,0.9478174448013306,Baseline regen
+171,Radar,prt_stdreg_p_18,0.929087221622467,Baseline regen
+172,Radar,prt_stdreg_p_19,0.782756507396698,Baseline regen
+173,Radar,prt_stdreg_p_3,0.9044927954673768,Baseline regen
+174,Radar,prt_stdreg_p_4,0.8245139718055725,Baseline regen
+175,Radar,prt_stdreg_p_5,0.9297640919685364,Baseline regen
+176,Radar,prt_stdreg_p_6,0.7988138198852539,Baseline regen
+177,Radar,prt_stdreg_p_7,0.950184404850006,Baseline regen
+178,Radar,prt_stdreg_p_8,0.978698432445526,Baseline regen
+179,Radar,prt_stdreg_p_9,0.9505374431610109,Baseline regen
+180,Radar,prt_std_p_1,0.9753499627113342,Baseline prompt
+181,Radar,prt_std_p_0,0.9730578064918518,Baseline prompt
+182,Radar,prt_std_p_10,0.97932231426239,Baseline prompt
+183,Radar,prt_std_p_11,0.943514049053192,Baseline prompt
+184,Radar,prt_std_p_12,0.9046391844749452,Baseline prompt
+185,Radar,prt_std_p_14,0.8943174481391907,Baseline prompt
+186,Radar,prt_std_p_13,0.9857891798019408,Baseline prompt
+187,Radar,prt_std_p_15,0.8473292589187622,Baseline prompt
+188,Radar,prt_std_p_17,0.8605320453643799,Baseline prompt
+189,Radar,prt_std_p_16,0.9829425811767578,Baseline prompt
+190,Radar,prt_std_p_18,0.9382205009460448,Baseline prompt
+191,Radar,prt_std_p_19,0.9195153713226318,Baseline prompt
+192,Radar,prt_std_p_2,0.9874451160430908,Baseline prompt
+193,Radar,prt_std_p_3,0.988042950630188,Baseline prompt
+194,Radar,prt_std_p_4,0.8820173740386963,Baseline prompt
+195,Radar,prt_std_p_6,0.9620859026908876,Baseline prompt
+196,Radar,prt_std_p_5,0.9272764325141908,Baseline prompt
+197,Radar,prt_std_p_7,0.9625643491744996,Baseline prompt
+198,Radar,prt_std_p_8,0.98504376411438,Baseline prompt
+199,Radar,prt_std_p_9,0.9749710559844972,Baseline prompt
+200,GPT2Detector,prt_avreg_p_15,0.817589282989502,Regen avoid detection
+201,GPT2Detector,prt_avreg_p_16,0.0001760125160217,Regen avoid detection
+202,GPT2Detector,prt_avreg_p_10,0.9868691563606262,Regen avoid detection
+203,GPT2Detector,prt_avreg_p_0,0.9993072748184204,Regen avoid detection
+204,GPT2Detector,prt_avreg_p_1,0.9418204426765442,Regen avoid detection
+205,GPT2Detector,prt_avreg_p_13,0.0001997351646423,Regen avoid detection
+206,GPT2Detector,prt_avreg_p_12,0.0011307597160339,Regen avoid detection
+207,GPT2Detector,prt_avreg_p_14,0.9997914433479308,Regen avoid detection
+208,GPT2Detector,prt_avreg_p_11,0.0002073645591735,Regen avoid detection
+209,GPT2Detector,prt_avreg_p_17,0.0001787543296813,Regen avoid detection
+210,GPT2Detector,prt_avreg_p_18,0.8212124705314636,Regen avoid detection
+211,GPT2Detector,prt_avreg_p_19,0.0017986297607421,Regen avoid detection
+212,GPT2Detector,prt_avreg_p_3,0.6601797342300415,Regen avoid detection
+213,GPT2Detector,prt_avreg_p_2,0.0021979212760925,Regen avoid detection
+214,GPT2Detector,prt_av_p_0,0.9997990727424622,Avoid detection prompt
+215,GPT2Detector,prt_avreg_p_4,0.0002927184104919,Regen avoid detection
+216,GPT2Detector,prt_avreg_p_7,0.9997945427894592,Regen avoid detection
+217,GPT2Detector,prt_avreg_p_8,0.0012595057487487,Regen avoid detection
+218,GPT2Detector,prt_avreg_p_5,0.0003079175949096,Regen avoid detection
+219,GPT2Detector,prt_avreg_p_6,0.182076096534729,Regen avoid detection
+220,GPT2Detector,prt_avreg_p_9,0.0014619827270507,Regen avoid detection
+221,GPT2Detector,prt_av_p_12,0.9998094439506532,Avoid detection prompt
+222,GPT2Detector,prt_av_p_10,0.9997954964637756,Avoid detection prompt
+223,GPT2Detector,prt_av_p_1,0.999816596508026,Avoid detection prompt
+224,GPT2Detector,prt_av_p_11,0.9998084902763368,Avoid detection prompt
+225,GPT2Detector,prt_av_p_13,0.9989320635795592,Avoid detection prompt
+226,GPT2Detector,prt_av_p_19,0.9997921586036682,Avoid detection prompt
+227,GPT2Detector,prt_av_p_15,0.9997909665107728,Avoid detection prompt
+228,GPT2Detector,prt_av_p_14,0.9997987151145936,Avoid detection prompt
+229,GPT2Detector,prt_av_p_16,0.126478374004364,Avoid detection prompt
+230,GPT2Detector,prt_av_p_17,0.9996100068092346,Avoid detection prompt
+231,GPT2Detector,prt_av_p_18,0.998002827167511,Avoid detection prompt
+232,GPT2Detector,prt_av_p_2,0.9998109936714172,Avoid detection prompt
+233,GPT2Detector,prt_av_p_6,0.9998207688331604,Avoid detection prompt
+234,GPT2Detector,prt_av_p_3,0.9014747142791748,Avoid detection prompt
+235,GPT2Detector,prt_av_p_4,0.9998152852058412,Avoid detection prompt
+236,GPT2Detector,prt_av_p_5,0.9998000264167786,Avoid detection prompt
+237,GPT2Detector,prt_av_p_7,0.9998177886009216,Avoid detection prompt
+238,GPT2Detector,prt_av_p_8,0.3708787560462951,Avoid detection prompt
+239,GPT2Detector,prt_av_p_9,0.9998270869255066,Avoid detection prompt
+240,GPT2Detector,prt_explreg_p_0,0.1903203725814819,Regen internet prompt
+241,GPT2Detector,prt_explreg_p_11,0.0002384781837463,Regen internet prompt
+242,GPT2Detector,prt_explreg_p_10,0.9997639060020448,Regen internet prompt
+243,GPT2Detector,prt_explreg_p_1,0.9993237257003784,Regen internet prompt
+244,GPT2Detector,prt_explreg_p_12,0.0369743704795837,Regen internet prompt
+245,GPT2Detector,prt_explreg_p_19,0.0002090334892272,Regen internet prompt
+246,GPT2Detector,prt_explreg_p_13,0.000289499759674,Regen internet prompt
+247,GPT2Detector,prt_explreg_p_14,0.0002023577690124,Regen internet prompt
+248,GPT2Detector,prt_explreg_p_15,0.9998136162757874,Regen internet prompt
+249,GPT2Detector,prt_explreg_p_16,0.0003343820571899,Regen internet prompt
+250,GPT2Detector,prt_explreg_p_18,0.0001710653305053,Regen internet prompt
+251,GPT2Detector,prt_explreg_p_2,0.002472698688507,Regen internet prompt
+252,GPT2Detector,prt_explreg_p_17,0.0022063255310058,Regen internet prompt
+253,GPT2Detector,prt_explreg_p_5,0.0024756789207458,Regen internet prompt
+254,GPT2Detector,prt_explreg_p_4,0.4294785261154175,Regen internet prompt
+255,GPT2Detector,prt_explreg_p_3,0.0002244114875793,Regen internet prompt
+256,GPT2Detector,prt_explreg_p_6,0.0002081990242004,Regen internet prompt
+257,GPT2Detector,prt_explreg_p_7,0.9886300563812256,Regen internet prompt
+258,GPT2Detector,prt_explreg_p_8,0.0001797080039978,Regen internet prompt
+259,GPT2Detector,prt_expl_p_1,0.9998258948326112,Internet prompt
+260,GPT2Detector,prt_expl_p_11,0.9997852444648744,Internet prompt
+261,GPT2Detector,prt_explreg_p_9,0.0010887384414672,Regen internet prompt
+262,GPT2Detector,prt_expl_p_0,0.9998195767402648,Internet prompt
+263,GPT2Detector,prt_expl_p_10,0.9998002648353576,Internet prompt
+264,GPT2Detector,prt_expl_p_12,0.9998109936714172,Internet prompt
+265,GPT2Detector,prt_expl_p_13,0.9997181296348572,Internet prompt
+266,GPT2Detector,prt_expl_p_18,0.9374815225601196,Internet prompt
+267,GPT2Detector,prt_expl_p_14,0.9998188614845276,Internet prompt
+268,GPT2Detector,prt_expl_p_15,0.99978107213974,Internet prompt
+269,GPT2Detector,prt_expl_p_16,0.99695086479187,Internet prompt
+270,GPT2Detector,prt_expl_p_17,0.9995341300964355,Internet prompt
+271,GPT2Detector,prt_expl_p_19,0.544405460357666,Internet prompt
+272,GPT2Detector,prt_expl_p_2,0.9986085295677184,Internet prompt
+273,GPT2Detector,prt_expl_p_3,0.9996216297149658,Internet prompt
+274,GPT2Detector,prt_expl_p_6,0.9996864795684814,Internet prompt
+275,GPT2Detector,prt_expl_p_4,0.9998244643211364,Internet prompt
+276,GPT2Detector,prt_expl_p_5,0.9997910857200624,Internet prompt
+277,GPT2Detector,prt_expl_p_7,0.9998252987861632,Internet prompt
+278,GPT2Detector,prt_expl_p_8,0.9998257756233216,Internet prompt
+279,GPT2Detector,prt_perplreg_p_0,0.9407675862312316,Regen perplexity prompt
+280,GPT2Detector,prt_expl_p_9,0.9998127818107604,Internet prompt
+281,GPT2Detector,prt_perplreg_p_1,0.0003149509429931,Regen perplexity prompt
+282,GPT2Detector,prt_perplreg_p_12,0.0004158616065979,Regen perplexity prompt
+283,GPT2Detector,prt_perplreg_p_10,0.000254213809967,Regen perplexity prompt
+284,GPT2Detector,prt_perplreg_p_11,0.0003345012664794,Regen perplexity prompt
+285,GPT2Detector,prt_perplreg_p_13,0.0004443526268005,Regen perplexity prompt
+286,GPT2Detector,prt_perplreg_p_17,0.0002179741859436,Regen perplexity prompt
+287,GPT2Detector,prt_perplreg_p_2,0.0002763867378234,Regen perplexity prompt
+288,GPT2Detector,prt_perplreg_p_15,0.0001701116561889,Regen perplexity prompt
+289,GPT2Detector,prt_perplreg_p_14,0.0003048181533813,Regen perplexity prompt
+290,GPT2Detector,prt_perplreg_p_16,0.0002004504203796,Regen perplexity prompt
+291,GPT2Detector,prt_perplreg_p_18,0.0001764893531799,Regen perplexity prompt
+292,GPT2Detector,prt_perplreg_p_19,0.0004469752311706,Regen perplexity prompt
+293,GPT2Detector,prt_perplreg_p_3,0.0003775358200073,Regen perplexity prompt
+294,GPT2Detector,prt_perplreg_p_4,0.9844623804092408,Regen perplexity prompt
+295,GPT2Detector,prt_perplreg_p_7,0.0004417300224304,Regen perplexity prompt
+296,GPT2Detector,prt_perplreg_p_5,0.0003092288970947,Regen perplexity prompt
+297,GPT2Detector,prt_perplreg_p_6,0.000411570072174,Regen perplexity prompt
+298,GPT2Detector,prt_perplreg_p_8,0.0003293752670288,Regen perplexity prompt
+299,GPT2Detector,prt_perpl_p_0,0.999812662601471,Perplexity prompt
+300,GPT2Detector,prt_perplreg_p_9,0.0002679228782653,Regen perplexity prompt
+301,GPT2Detector,prt_perpl_p_1,0.9985464215278624,Perplexity prompt
+302,GPT2Detector,prt_perpl_p_13,0.312505304813385,Perplexity prompt
+303,GPT2Detector,prt_perpl_p_10,0.999789535999298,Perplexity prompt
+304,GPT2Detector,prt_perpl_p_11,0.999823033809662,Perplexity prompt
+305,GPT2Detector,prt_perpl_p_12,0.938470721244812,Perplexity prompt
+306,GPT2Detector,prt_perpl_p_14,0.9998237490653992,Perplexity prompt
+307,GPT2Detector,prt_perpl_p_15,0.9997914433479308,Perplexity prompt
+308,GPT2Detector,prt_perpl_p_2,0.9925014972686768,Perplexity prompt
+309,GPT2Detector,prt_perpl_p_16,0.9998264908790588,Perplexity prompt
+310,GPT2Detector,prt_perpl_p_17,0.9998144507408142,Perplexity prompt
+311,GPT2Detector,prt_perpl_p_18,0.999806821346283,Perplexity prompt
+312,GPT2Detector,prt_perpl_p_19,0.9523589611053468,Perplexity prompt
+313,GPT2Detector,prt_perpl_p_3,0.9997995495796204,Perplexity prompt
+314,GPT2Detector,prt_perpl_p_8,0.9998227953910828,Perplexity prompt
+315,GPT2Detector,prt_perpl_p_6,0.9998186230659484,Perplexity prompt
+316,GPT2Detector,prt_perpl_p_7,0.999823272228241,Perplexity prompt
+317,GPT2Detector,prt_perpl_p_4,0.999785840511322,Perplexity prompt
+318,GPT2Detector,prt_perpl_p_5,0.9998216032981871,Perplexity prompt
+319,GPT2Detector,prt_smareg_p_12,0.0053356885910034,Regen smart prompt
+320,GPT2Detector,prt_perpl_p_9,0.9998261332511902,Perplexity prompt
+321,GPT2Detector,prt_smareg_p_0,0.0002487301826477,Regen smart prompt
+322,GPT2Detector,prt_smareg_p_10,0.999821126461029,Regen smart prompt
+323,GPT2Detector,prt_smareg_p_1,0.1328487396240234,Regen smart prompt
+324,GPT2Detector,prt_smareg_p_11,0.0001888871192932,Regen smart prompt
+325,GPT2Detector,prt_smareg_p_14,0.0007743835449218,Regen smart prompt
+326,GPT2Detector,prt_smareg_p_13,0.0002041459083557,Regen smart prompt
+327,GPT2Detector,prt_smareg_p_17,0.0013720989227294,Regen smart prompt
+328,GPT2Detector,prt_smareg_p_15,0.3990019559860229,Regen smart prompt
+329,GPT2Detector,prt_smareg_p_16,0.0001766085624694,Regen smart prompt
+330,GPT2Detector,prt_smareg_p_18,0.0001811385154724,Regen smart prompt
+331,GPT2Detector,prt_smareg_p_19,0.0003066062927246,Regen smart prompt
+332,GPT2Detector,prt_smareg_p_7,0.0008398294448852,Regen smart prompt
+333,GPT2Detector,prt_smareg_p_2,0.0006870031356811,Regen smart prompt
+334,GPT2Detector,prt_smareg_p_5,0.9997733235359192,Regen smart prompt
+335,GPT2Detector,prt_smareg_p_4,0.0994134545326232,Regen smart prompt
+336,GPT2Detector,prt_smareg_p_3,0.0049910545349121,Regen smart prompt
+337,GPT2Detector,prt_smareg_p_6,0.1330081820487976,Regen smart prompt
+338,GPT2Detector,prt_smareg_p_8,0.0002667307853698,Regen smart prompt
+339,GPT2Detector,prt_smareg_p_9,0.0001755356788635,Regen smart prompt
+340,GPT2Detector,prt_sma_p_10,0.999784290790558,Smart prompt
+341,GPT2Detector,prt_sma_p_0,0.9998231530189514,Smart prompt
+342,GPT2Detector,prt_sma_p_1,0.0001748204231262,Smart prompt
+343,GPT2Detector,prt_sma_p_11,0.9997991919517516,Smart prompt
+344,GPT2Detector,prt_sma_p_12,0.9998227953910828,Smart prompt
+345,GPT2Detector,prt_sma_p_15,0.9997954964637756,Smart prompt
+346,GPT2Detector,prt_sma_p_13,0.0010919570922851,Smart prompt
+347,GPT2Detector,prt_sma_p_14,0.9997829794883728,Smart prompt
+348,GPT2Detector,prt_sma_p_18,0.99824857711792,Smart prompt
+349,GPT2Detector,prt_sma_p_16,0.99981290102005,Smart prompt
+350,GPT2Detector,prt_sma_p_17,0.0002079606056213,Smart prompt
+351,GPT2Detector,prt_sma_p_19,0.1719720959663391,Smart prompt
+352,GPT2Detector,prt_sma_p_4,0.9998268485069276,Smart prompt
+353,GPT2Detector,prt_sma_p_2,0.0069056749343872,Smart prompt
+354,GPT2Detector,prt_sma_p_8,0.9920470714569092,Smart prompt
+355,GPT2Detector,prt_sma_p_3,0.931014895439148,Smart prompt
+356,GPT2Detector,prt_sma_p_5,0.999823033809662,Smart prompt
+357,GPT2Detector,prt_sma_p_6,0.0001762509346008,Smart prompt
+358,GPT2Detector,prt_sma_p_7,0.9997463822364808,Smart prompt
+359,GPT2Detector,prt_sma_p_9,0.9998086094856262,Smart prompt
+360,GPT2Detector,prt_stdreg_p_12,0.0002489686012268,Baseline regen
+361,GPT2Detector,prt_stdreg_p_0,0.9996862411499025,Baseline regen
+362,GPT2Detector,prt_stdreg_p_1,0.0090541839599609,Baseline regen
+363,GPT2Detector,prt_stdreg_p_10,0.9995558857917786,Baseline regen
+364,GPT2Detector,prt_stdreg_p_11,0.0007486939430236,Baseline regen
+365,GPT2Detector,prt_stdreg_p_13,0.0002000927925109,Baseline regen
+366,GPT2Detector,prt_stdreg_p_14,0.0066556930541992,Baseline regen
+367,GPT2Detector,prt_stdreg_p_18,0.1836083531379699,Baseline regen
+368,GPT2Detector,prt_stdreg_p_15,0.0022604465484619,Baseline regen
+369,GPT2Detector,prt_stdreg_p_17,0.0102033019065856,Baseline regen
+370,GPT2Detector,prt_stdreg_p_3,0.0002288222312927,Baseline regen
+371,GPT2Detector,prt_stdreg_p_16,0.0052933096885681,Baseline regen
+372,GPT2Detector,prt_stdreg_p_2,0.9492077231407166,Baseline regen
+373,GPT2Detector,prt_stdreg_p_19,0.0001755356788635,Baseline regen
+374,GPT2Detector,prt_stdreg_p_4,0.9998207688331604,Baseline regen
+375,GPT2Detector,prt_stdreg_p_5,0.0001804232597351,Baseline regen
+376,GPT2Detector,prt_stdreg_p_6,0.0066426396369934,Baseline regen
+377,GPT2Detector,prt_stdreg_p_7,0.9997710585594176,Baseline regen
+378,GPT2Detector,prt_stdreg_p_8,0.2661154270172119,Baseline regen
+379,GPT2Detector,prt_stdreg_p_9,0.0023302435874938,Baseline regen
+380,GPT2Detector,prt_std_p_0,0.999796450138092,Baseline prompt
+381,GPT2Detector,prt_std_p_10,0.9997826218605042,Baseline prompt
+382,GPT2Detector,prt_std_p_1,0.9991549253463744,Baseline prompt
+383,GPT2Detector,prt_std_p_11,0.9998216032981871,Baseline prompt
+384,GPT2Detector,prt_std_p_15,0.9998199343681335,Baseline prompt
+385,GPT2Detector,prt_std_p_12,0.8149965405464172,Baseline prompt
+386,GPT2Detector,prt_std_p_14,0.9998099207878112,Baseline prompt
+387,GPT2Detector,prt_std_p_13,0.9914963245391846,Baseline prompt
+388,GPT2Detector,prt_std_p_16,0.9997974038124084,Baseline prompt
+389,GPT2Detector,prt_std_p_18,0.5323600172996521,Baseline prompt
+390,GPT2Detector,prt_std_p_4,0.9998220801353456,Baseline prompt
+391,GPT2Detector,prt_std_p_19,0.9998249411582948,Baseline prompt
+392,GPT2Detector,prt_std_p_17,0.0001918673515319,Baseline prompt
+393,GPT2Detector,prt_std_p_2,0.9997982382774352,Baseline prompt
+394,GPT2Detector,prt_std_p_3,0.8501230478286743,Baseline prompt
+395,GPT2Detector,prt_std_p_6,0.9998078942298888,Baseline prompt
+396,GPT2Detector,prt_std_p_5,0.99970680475235,Baseline prompt
+397,GPT2Detector,prt_std_p_7,0.999803364276886,Baseline prompt
+398,GPT2Detector,prt_std_p_9,0.9993851184844972,Baseline prompt
+399,GPT2Detector,prt_std_p_8,0.9997735619544984,Baseline prompt
+400,GPTZero,prt_avreg_p_1,0.9092670190856504,Regen avoid detection
+401,GPTZero,prt_avreg_p_14,1.0,Regen avoid detection
+402,GPTZero,prt_avreg_p_13,0.915630600561598,Regen avoid detection
+403,GPTZero,prt_avreg_p_10,0.9977775103937532,Regen avoid detection
+404,GPTZero,prt_avreg_p_0,0.9977558223168834,Regen avoid detection
+405,GPTZero,prt_avreg_p_16,0.9826080317224812,Regen avoid detection
+406,GPTZero,prt_avreg_p_15,0.9977775103937532,Regen avoid detection
+407,GPTZero,prt_avreg_p_11,0.9977558223168834,Regen avoid detection
+408,GPTZero,prt_avreg_p_12,0.9122259726882967,Regen avoid detection
+409,GPTZero,prt_avreg_p_17,0.982251886615535,Regen avoid detection
+410,GPTZero,prt_avreg_p_18,0.9973955738343496,Regen avoid detection
+411,GPTZero,prt_avreg_p_2,1.0,Regen avoid detection
+412,GPTZero,prt_avreg_p_3,0.982932157729323,Regen avoid detection
+413,GPTZero,prt_avreg_p_19,0.9973955738343496,Regen avoid detection
+414,GPTZero,prt_avreg_p_5,0.7226982044765106,Regen avoid detection
+415,GPTZero,prt_avreg_p_4,0.9825825322814176,Regen avoid detection
+416,GPTZero,prt_avreg_p_8,0.7307051003315728,Regen avoid detection
+417,GPTZero,prt_avreg_p_7,1.0,Regen avoid detection
+418,GPTZero,prt_avreg_p_9,1.0,Regen avoid detection
+419,GPTZero,prt_avreg_p_6,0.8234289035940133,Regen avoid detection
+420,GPTZero,prt_av_p_0,0.9977558223168834,Avoid detection prompt
+421,GPTZero,prt_av_p_10,0.9977775103937532,Avoid detection prompt
+422,GPTZero,prt_av_p_1,0.9977558223168834,Avoid detection prompt
+423,GPTZero,prt_av_p_17,0.9977558223168834,Avoid detection prompt
+424,GPTZero,prt_av_p_13,0.9977558223168834,Avoid detection prompt
+425,GPTZero,prt_av_p_11,0.9977558223168834,Avoid detection prompt
+426,GPTZero,prt_av_p_14,0.9977558223168834,Avoid detection prompt
+427,GPTZero,prt_av_p_16,0.9977558223168834,Avoid detection prompt
+428,GPTZero,prt_av_p_12,0.9977558223168834,Avoid detection prompt
+429,GPTZero,prt_av_p_15,0.9977558223168834,Avoid detection prompt
+430,GPTZero,prt_av_p_18,0.9977558223168834,Avoid detection prompt
+431,GPTZero,prt_av_p_2,0.9977775103937532,Avoid detection prompt
+432,GPTZero,prt_av_p_19,0.9092670190856504,Avoid detection prompt
+433,GPTZero,prt_av_p_6,0.9977558223168834,Avoid detection prompt
+434,GPTZero,prt_av_p_3,0.9977558223168834,Avoid detection prompt
+435,GPTZero,prt_av_p_5,0.9973955738343496,Avoid detection prompt
+436,GPTZero,prt_av_p_4,0.9807071088338744,Avoid detection prompt
+437,GPTZero,prt_explreg_p_0,0.9977558223168834,Regen internet prompt
+438,GPTZero,prt_av_p_9,0.9977558223168834,Avoid detection prompt
+439,GPTZero,prt_av_p_7,1.0,Avoid detection prompt
+440,GPTZero,prt_av_p_8,1.0,Avoid detection prompt
+441,GPTZero,prt_explreg_p_1,0.9977775103937532,Regen internet prompt
+442,GPTZero,prt_explreg_p_10,0.9825825322814176,Regen internet prompt
+443,GPTZero,prt_explreg_p_11,0.9977775103937532,Regen internet prompt
+444,GPTZero,prt_explreg_p_12,0.9973955738343496,Regen internet prompt
+445,GPTZero,prt_explreg_p_13,0.9825825322814176,Regen internet prompt
+446,GPTZero,prt_explreg_p_14,0.9977558223168834,Regen internet prompt
+447,GPTZero,prt_explreg_p_15,0.9977558223168834,Regen internet prompt
+448,GPTZero,prt_explreg_p_19,0.915321344878592,Regen internet prompt
+449,GPTZero,prt_explreg_p_16,0.9977558223168834,Regen internet prompt
+450,GPTZero,prt_explreg_p_17,0.9973955738343496,Regen internet prompt
+451,GPTZero,prt_explreg_p_18,0.982932157729323,Regen internet prompt
+452,GPTZero,prt_explreg_p_2,1.0,Regen internet prompt
+453,GPTZero,prt_explreg_p_3,1.0,Regen internet prompt
+454,GPTZero,prt_explreg_p_4,0.9977558223168834,Regen internet prompt
+455,GPTZero,prt_explreg_p_5,0.9825825322814176,Regen internet prompt
+456,GPTZero,prt_explreg_p_6,0.8223915592028135,Regen internet prompt
+457,GPTZero,prt_explreg_p_7,0.9977775103937532,Regen internet prompt
+458,GPTZero,prt_expl_p_0,0.982251886615535,Internet prompt
+459,GPTZero,prt_explreg_p_9,0.982932157729323,Regen internet prompt
+460,GPTZero,prt_expl_p_11,0.9825825322814176,Internet prompt
+461,GPTZero,prt_explreg_p_8,1.0,Regen internet prompt
+462,GPTZero,prt_expl_p_1,0.9973955738343496,Internet prompt
+463,GPTZero,prt_expl_p_12,0.982251886615535,Internet prompt
+464,GPTZero,prt_expl_p_10,0.9977558223168834,Internet prompt
+465,GPTZero,prt_expl_p_14,0.9977775103937532,Internet prompt
+466,GPTZero,prt_expl_p_13,0.9825825322814176,Internet prompt
+467,GPTZero,prt_expl_p_16,0.9977558223168834,Internet prompt
+468,GPTZero,prt_expl_p_17,0.9973955738343496,Internet prompt
+469,GPTZero,prt_expl_p_2,0.9977558223168834,Internet prompt
+470,GPTZero,prt_expl_p_3,0.9977558223168834,Internet prompt
+471,GPTZero,prt_expl_p_18,0.9977558223168834,Internet prompt
+472,GPTZero,prt_expl_p_15,0.9977775103937532,Internet prompt
+473,GPTZero,prt_expl_p_19,0.9977558223168834,Internet prompt
+474,GPTZero,prt_expl_p_4,0.9977558223168834,Internet prompt
+475,GPTZero,prt_expl_p_5,0.9977558223168834,Internet prompt
+476,GPTZero,prt_expl_p_6,0.9977558223168834,Internet prompt
+477,GPTZero,prt_expl_p_7,0.982251886615535,Internet prompt
+478,GPTZero,prt_expl_p_8,1.0,Internet prompt
+479,GPTZero,prt_expl_p_9,0.982932157729323,Internet prompt
+480,GPTZero,prt_perplreg_p_0,0.9977558223168834,Regen perplexity prompt
+481,GPTZero,prt_perplreg_p_1,0.9106245014028448,Regen perplexity prompt
+482,GPTZero,prt_perplreg_p_10,1.0,Regen perplexity prompt
+483,GPTZero,prt_perplreg_p_12,0.8293436980152958,Regen perplexity prompt
+484,GPTZero,prt_perplreg_p_11,0.9977775103937532,Regen perplexity prompt
+485,GPTZero,prt_perplreg_p_14,0.9977558223168834,Regen perplexity prompt
+486,GPTZero,prt_perplreg_p_13,0.7236238825849749,Regen perplexity prompt
+487,GPTZero,prt_perplreg_p_16,0.9977558223168834,Regen perplexity prompt
+488,GPTZero,prt_perplreg_p_15,0.9977558223168834,Regen perplexity prompt
+489,GPTZero,prt_perplreg_p_17,0.9977558223168834,Regen perplexity prompt
+490,GPTZero,prt_perplreg_p_19,0.9977775103937532,Regen perplexity prompt
+491,GPTZero,prt_perplreg_p_2,0.982932157729323,Regen perplexity prompt
+492,GPTZero,prt_perplreg_p_18,0.9851100744681244,Regen perplexity prompt
+493,GPTZero,prt_perplreg_p_4,0.9977558223168834,Regen perplexity prompt
+494,GPTZero,prt_perplreg_p_6,0.8235569534490451,Regen perplexity prompt
+495,GPTZero,prt_perplreg_p_5,0.9828449639809316,Regen perplexity prompt
+496,GPTZero,prt_perplreg_p_3,0.7236238825849749,Regen perplexity prompt
+497,GPTZero,prt_perplreg_p_8,0.9825825322814176,Regen perplexity prompt
+498,GPTZero,prt_perplreg_p_9,0.9092670190856504,Regen perplexity prompt
+499,GPTZero,prt_perplreg_p_7,0.9977775103937532,Regen perplexity prompt
+500,GPTZero,prt_perpl_p_0,0.9977558223168834,Perplexity prompt
+501,GPTZero,prt_perpl_p_1,0.9973955738343496,Perplexity prompt
+502,GPTZero,prt_perpl_p_11,0.9977558223168834,Perplexity prompt
+503,GPTZero,prt_perpl_p_12,0.9802844144278466,Perplexity prompt
+504,GPTZero,prt_perpl_p_13,0.982932157729323,Perplexity prompt
+505,GPTZero,prt_perpl_p_15,0.9977558223168834,Perplexity prompt
+506,GPTZero,prt_perpl_p_14,0.9977558223168834,Perplexity prompt
+507,GPTZero,prt_perpl_p_18,0.9977558223168834,Perplexity prompt
+508,GPTZero,prt_perpl_p_16,0.982932157729323,Perplexity prompt
+509,GPTZero,prt_perpl_p_10,0.9977558223168834,Perplexity prompt
+510,GPTZero,prt_perpl_p_2,0.9977558223168834,Perplexity prompt
+511,GPTZero,prt_perpl_p_3,0.9977558223168834,Perplexity prompt
+512,GPTZero,prt_perpl_p_17,0.9973955738343496,Perplexity prompt
+513,GPTZero,prt_perpl_p_6,0.9973955738343496,Perplexity prompt
+514,GPTZero,prt_perpl_p_4,0.9106245014028448,Perplexity prompt
+515,GPTZero,prt_perpl_p_19,0.9973955738343496,Perplexity prompt
+516,GPTZero,prt_perpl_p_7,0.9977558223168834,Perplexity prompt
+517,GPTZero,prt_perpl_p_5,0.8328182073616185,Perplexity prompt
+518,GPTZero,prt_perpl_p_9,0.9977558223168834,Perplexity prompt
+519,GPTZero,prt_perpl_p_8,0.9977775103937532,Perplexity prompt
+520,GPTZero,prt_smareg_p_1,0.9977775103937532,Regen smart prompt
+521,GPTZero,prt_smareg_p_0,0.9977558223168834,Regen smart prompt
+522,GPTZero,prt_smareg_p_10,0.9977775103937532,Regen smart prompt
+523,GPTZero,prt_smareg_p_11,0.9977558223168834,Regen smart prompt
+524,GPTZero,prt_smareg_p_12,0.982251886615535,Regen smart prompt
+525,GPTZero,prt_smareg_p_13,1.0,Regen smart prompt
+526,GPTZero,prt_smareg_p_15,0.9977558223168834,Regen smart prompt
+527,GPTZero,prt_smareg_p_14,0.9977558223168834,Regen smart prompt
+528,GPTZero,prt_smareg_p_16,0.9977558223168834,Regen smart prompt
+529,GPTZero,prt_smareg_p_17,0.9802844144278466,Regen smart prompt
+530,GPTZero,prt_smareg_p_18,0.9977558223168834,Regen smart prompt
+531,GPTZero,prt_smareg_p_2,0.9977775103937532,Regen smart prompt
+532,GPTZero,prt_smareg_p_3,0.982251886615535,Regen smart prompt
+533,GPTZero,prt_smareg_p_19,0.9977775103937532,Regen smart prompt
+534,GPTZero,prt_smareg_p_5,0.9825825322814176,Regen smart prompt
+535,GPTZero,prt_smareg_p_4,0.9977558223168834,Regen smart prompt
+536,GPTZero,prt_smareg_p_6,0.9977558223168834,Regen smart prompt
+537,GPTZero,prt_smareg_p_7,0.982251886615535,Regen smart prompt
+538,GPTZero,prt_smareg_p_8,0.8037889039242219,Regen smart prompt
+539,GPTZero,prt_smareg_p_9,0.9175567925379872,Regen smart prompt
+540,GPTZero,prt_sma_p_0,0.9977558223168834,Smart prompt
+541,GPTZero,prt_sma_p_1,0.8952464788732395,Smart prompt
+542,GPTZero,prt_sma_p_10,0.9977775103937532,Smart prompt
+543,GPTZero,prt_sma_p_11,0.9973955738343496,Smart prompt
+544,GPTZero,prt_sma_p_12,0.9977558223168834,Smart prompt
+545,GPTZero,prt_sma_p_13,0.9977558223168834,Smart prompt
+546,GPTZero,prt_sma_p_15,0.9977558223168834,Smart prompt
+547,GPTZero,prt_sma_p_14,0.9977558223168834,Smart prompt
+548,GPTZero,prt_sma_p_16,0.915321344878592,Smart prompt
+549,GPTZero,prt_sma_p_17,0.9973955738343496,Smart prompt
+550,GPTZero,prt_sma_p_19,0.9977558223168834,Smart prompt
+551,GPTZero,prt_sma_p_2,0.9977558223168834,Smart prompt
+552,GPTZero,prt_sma_p_18,0.9973955738343496,Smart prompt
+553,GPTZero,prt_sma_p_3,0.9973955738343496,Smart prompt
+554,GPTZero,prt_sma_p_4,0.915321344878592,Smart prompt
+555,GPTZero,prt_sma_p_5,0.9977558223168834,Smart prompt
+556,GPTZero,prt_sma_p_6,0.9977558223168834,Smart prompt
+557,GPTZero,prt_sma_p_7,0.9977558223168834,Smart prompt
+558,GPTZero,prt_sma_p_8,0.9109374343376851,Smart prompt
+559,GPTZero,prt_stdreg_p_10,0.982932157729323,Baseline regen
+560,GPTZero,prt_stdreg_p_1,1.0,Baseline regen
+561,GPTZero,prt_sma_p_9,0.982251886615535,Smart prompt
+562,GPTZero,prt_stdreg_p_0,0.9134421713662072,Baseline regen
+563,GPTZero,prt_stdreg_p_11,0.9977558223168834,Baseline regen
+564,GPTZero,prt_stdreg_p_12,0.9122259726882967,Baseline regen
+565,GPTZero,prt_stdreg_p_13,1.0,Baseline regen
+566,GPTZero,prt_stdreg_p_14,1.0,Baseline regen
+567,GPTZero,prt_stdreg_p_15,0.9826080317224812,Baseline regen
+568,GPTZero,prt_stdreg_p_16,0.982932157729323,Baseline regen
+569,GPTZero,prt_stdreg_p_17,0.9973955738343496,Baseline regen
+570,GPTZero,prt_stdreg_p_19,0.7149289967777173,Baseline regen
+571,GPTZero,prt_stdreg_p_18,0.982932157729323,Baseline regen
+572,GPTZero,prt_stdreg_p_3,0.9851100744681244,Baseline regen
+573,GPTZero,prt_stdreg_p_2,1.0,Baseline regen
+574,GPTZero,prt_stdreg_p_4,0.7556654060331734,Baseline regen
+575,GPTZero,prt_stdreg_p_7,1.0,Baseline regen
+576,GPTZero,prt_stdreg_p_5,0.9106245014028448,Baseline regen
+577,GPTZero,prt_stdreg_p_9,0.915321344878592,Baseline regen
+578,GPTZero,prt_stdreg_p_8,0.9851100744681244,Baseline regen
+579,GPTZero,prt_stdreg_p_6,0.8223915592028135,Baseline regen
+580,GPTZero,prt_std_p_0,0.9977775103937532,Baseline prompt
+581,GPTZero,prt_std_p_10,0.9973955738343496,Baseline prompt
+582,GPTZero,prt_std_p_11,0.9977775103937532,Baseline prompt
+583,GPTZero,prt_std_p_1,0.9825825322814176,Baseline prompt
+584,GPTZero,prt_std_p_12,0.9825825322814176,Baseline prompt
+585,GPTZero,prt_std_p_13,0.9977558223168834,Baseline prompt
+586,GPTZero,prt_std_p_14,0.9977558223168834,Baseline prompt
+587,GPTZero,prt_std_p_17,0.9825825322814176,Baseline prompt
+588,GPTZero,prt_std_p_15,1.0,Baseline prompt
+589,GPTZero,prt_std_p_16,0.982932157729323,Baseline prompt
+590,GPTZero,prt_std_p_18,0.9977558223168834,Baseline prompt
+591,GPTZero,prt_std_p_2,0.8223915592028135,Baseline prompt
+592,GPTZero,prt_std_p_3,0.9977558223168834,Baseline prompt
+593,GPTZero,prt_std_p_19,0.9973955738343496,Baseline prompt
+594,GPTZero,prt_std_p_5,0.9973955738343496,Baseline prompt
+595,GPTZero,prt_std_p_4,0.6761725657506947,Baseline prompt
+596,GPTZero,prt_std_p_7,1.0,Baseline prompt
+597,GPTZero,prt_std_p_9,0.9977558223168834,Baseline prompt
+598,GPTZero,prt_std_p_6,0.7713612860287717,Baseline prompt
+599,GPTZero,prt_std_p_8,0.982932157729323,Baseline prompt
+600,CopyLeaks,prt_avreg_p_15,1.0,Regen avoid detection
+601,CopyLeaks,prt_avreg_p_11,1.0,Regen avoid detection
+602,CopyLeaks,prt_avreg_p_1,1.0,Regen avoid detection
+603,CopyLeaks,prt_avreg_p_12,1.0,Regen avoid detection
+604,CopyLeaks,prt_avreg_p_14,1.0,Regen avoid detection
+605,CopyLeaks,prt_avreg_p_13,1.0,Regen avoid detection
+606,CopyLeaks,prt_avreg_p_17,1.0,Regen avoid detection
+607,CopyLeaks,prt_avreg_p_0,1.0,Regen avoid detection
+608,CopyLeaks,prt_avreg_p_16,1.0,Regen avoid detection
+609,CopyLeaks,prt_avreg_p_10,1.0,Regen avoid detection
+610,CopyLeaks,prt_avreg_p_19,1.0,Regen avoid detection
+611,CopyLeaks,prt_avreg_p_18,1.0,Regen avoid detection
+612,CopyLeaks,prt_avreg_p_2,1.0,Regen avoid detection
+613,CopyLeaks,prt_avreg_p_4,1.0,Regen avoid detection
+614,CopyLeaks,prt_avreg_p_6,1.0,Regen avoid detection
+615,CopyLeaks,prt_avreg_p_3,1.0,Regen avoid detection
+616,CopyLeaks,prt_avreg_p_5,1.0,Regen avoid detection
+617,CopyLeaks,prt_avreg_p_7,1.0,Regen avoid detection
+618,CopyLeaks,prt_avreg_p_8,1.0,Regen avoid detection
+619,CopyLeaks,prt_av_p_10,1.0,Avoid detection prompt
+620,CopyLeaks,prt_avreg_p_9,1.0,Regen avoid detection
+621,CopyLeaks,prt_av_p_1,1.0,Avoid detection prompt
+622,CopyLeaks,prt_av_p_0,1.0,Avoid detection prompt
+623,CopyLeaks,prt_av_p_12,1.0,Avoid detection prompt
+624,CopyLeaks,prt_av_p_16,1.0,Avoid detection prompt
+625,CopyLeaks,prt_av_p_11,1.0,Avoid detection prompt
+626,CopyLeaks,prt_av_p_14,1.0,Avoid detection prompt
+627,CopyLeaks,prt_av_p_17,1.0,Avoid detection prompt
+628,CopyLeaks,prt_av_p_13,1.0,Avoid detection prompt
+629,CopyLeaks,prt_av_p_19,1.0,Avoid detection prompt
+630,CopyLeaks,prt_av_p_3,1.0,Avoid detection prompt
+631,CopyLeaks,prt_av_p_4,1.0,Avoid detection prompt
+632,CopyLeaks,prt_av_p_7,1.0,Avoid detection prompt
+633,CopyLeaks,prt_av_p_9,1.0,Avoid detection prompt
+634,CopyLeaks,prt_explreg_p_0,1.0,Regen internet prompt
+635,CopyLeaks,prt_explreg_p_1,1.0,Regen internet prompt
+636,CopyLeaks,prt_av_p_15,1.0,Avoid detection prompt
+637,CopyLeaks,prt_av_p_18,1.0,Avoid detection prompt
+638,CopyLeaks,prt_explreg_p_10,1.0,Regen internet prompt
+639,CopyLeaks,prt_av_p_2,1.0,Avoid detection prompt
+640,CopyLeaks,prt_av_p_8,1.0,Avoid detection prompt
+641,CopyLeaks,prt_explreg_p_14,1.0,Regen internet prompt
+642,CopyLeaks,prt_explreg_p_15,1.0,Regen internet prompt
+643,CopyLeaks,prt_av_p_6,1.0,Avoid detection prompt
+644,CopyLeaks,prt_av_p_5,1.0,Avoid detection prompt
+645,CopyLeaks,prt_explreg_p_12,1.0,Regen internet prompt
+646,CopyLeaks,prt_explreg_p_11,1.0,Regen internet prompt
+647,CopyLeaks,prt_explreg_p_16,1.0,Regen internet prompt
+648,CopyLeaks,prt_explreg_p_13,1.0,Regen internet prompt
+649,CopyLeaks,prt_explreg_p_17,1.0,Regen internet prompt
+650,CopyLeaks,prt_explreg_p_18,1.0,Regen internet prompt
+651,CopyLeaks,prt_explreg_p_19,1.0,Regen internet prompt
+652,CopyLeaks,prt_explreg_p_3,1.0,Regen internet prompt
+653,CopyLeaks,prt_explreg_p_7,1.0,Regen internet prompt
+654,CopyLeaks,prt_explreg_p_4,1.0,Regen internet prompt
+655,CopyLeaks,prt_explreg_p_5,1.0,Regen internet prompt
+656,CopyLeaks,prt_explreg_p_9,1.0,Regen internet prompt
+657,CopyLeaks,prt_expl_p_10,1.0,Internet prompt
+658,CopyLeaks,prt_explreg_p_6,1.0,Regen internet prompt
+659,CopyLeaks,prt_explreg_p_2,1.0,Regen internet prompt
+660,CopyLeaks,prt_expl_p_11,1.0,Internet prompt
+661,CopyLeaks,prt_expl_p_12,1.0,Internet prompt
+662,CopyLeaks,prt_expl_p_14,1.0,Internet prompt
+663,CopyLeaks,prt_expl_p_15,1.0,Internet prompt
+664,CopyLeaks,prt_expl_p_19,1.0,Internet prompt
+665,CopyLeaks,prt_expl_p_18,1.0,Internet prompt
+666,CopyLeaks,prt_expl_p_1,1.0,Internet prompt
+667,CopyLeaks,prt_expl_p_0,1.0,Internet prompt
+668,CopyLeaks,prt_explreg_p_8,1.0,Regen internet prompt
+669,CopyLeaks,prt_expl_p_13,1.0,Internet prompt
+670,CopyLeaks,prt_expl_p_3,1.0,Internet prompt
+671,CopyLeaks,prt_expl_p_8,1.0,Internet prompt
+672,CopyLeaks,prt_expl_p_6,1.0,Internet prompt
+673,CopyLeaks,prt_perplreg_p_0,1.0,Regen perplexity prompt
+674,CopyLeaks,prt_expl_p_16,1.0,Internet prompt
+675,CopyLeaks,prt_expl_p_2,1.0,Internet prompt
+676,CopyLeaks,prt_expl_p_17,1.0,Internet prompt
+677,CopyLeaks,prt_perplreg_p_1,1.0,Regen perplexity prompt
+678,CopyLeaks,prt_perplreg_p_10,1.0,Regen perplexity prompt
+679,CopyLeaks,prt_expl_p_4,1.0,Internet prompt
+680,CopyLeaks,prt_expl_p_5,1.0,Internet prompt
+681,CopyLeaks,prt_perplreg_p_16,1.0,Regen perplexity prompt
+682,CopyLeaks,prt_expl_p_9,1.0,Internet prompt
+683,CopyLeaks,prt_expl_p_7,1.0,Internet prompt
+684,CopyLeaks,prt_perplreg_p_13,1.0,Regen perplexity prompt
+685,CopyLeaks,prt_perplreg_p_11,1.0,Regen perplexity prompt
+686,CopyLeaks,prt_perplreg_p_18,1.0,Regen perplexity prompt
+687,CopyLeaks,prt_perplreg_p_15,1.0,Regen perplexity prompt
+688,CopyLeaks,prt_perplreg_p_12,1.0,Regen perplexity prompt
+689,CopyLeaks,prt_perplreg_p_14,1.0,Regen perplexity prompt
+690,CopyLeaks,prt_perplreg_p_5,1.0,Regen perplexity prompt
+691,CopyLeaks,prt_perplreg_p_4,1.0,Regen perplexity prompt
+692,CopyLeaks,prt_perplreg_p_17,1.0,Regen perplexity prompt
+693,CopyLeaks,prt_perplreg_p_7,1.0,Regen perplexity prompt
+694,CopyLeaks,prt_perplreg_p_6,1.0,Regen perplexity prompt
+695,CopyLeaks,prt_perplreg_p_19,1.0,Regen perplexity prompt
+696,CopyLeaks,prt_perplreg_p_3,1.0,Regen perplexity prompt
+697,CopyLeaks,prt_perplreg_p_2,1.0,Regen perplexity prompt
+698,CopyLeaks,prt_perplreg_p_9,1.0,Regen perplexity prompt
+699,CopyLeaks,prt_perpl_p_0,1.0,Perplexity prompt
+700,CopyLeaks,prt_perpl_p_1,1.0,Perplexity prompt
+701,CopyLeaks,prt_perpl_p_10,1.0,Perplexity prompt
+702,CopyLeaks,prt_perplreg_p_8,1.0,Regen perplexity prompt
+703,CopyLeaks,prt_perpl_p_11,1.0,Perplexity prompt
+704,CopyLeaks,prt_perpl_p_13,1.0,Perplexity prompt
+705,CopyLeaks,prt_perpl_p_17,1.0,Perplexity prompt
+706,CopyLeaks,prt_perpl_p_3,1.0,Perplexity prompt
+707,CopyLeaks,prt_perpl_p_14,1.0,Perplexity prompt
+708,CopyLeaks,prt_perpl_p_16,1.0,Perplexity prompt
+709,CopyLeaks,prt_perpl_p_19,1.0,Perplexity prompt
+710,CopyLeaks,prt_perpl_p_12,1.0,Perplexity prompt
+711,CopyLeaks,prt_perpl_p_2,1.0,Perplexity prompt
+712,CopyLeaks,prt_perpl_p_5,1.0,Perplexity prompt
+713,CopyLeaks,prt_perpl_p_18,1.0,Perplexity prompt
+714,CopyLeaks,prt_perpl_p_15,1.0,Perplexity prompt
+715,CopyLeaks,prt_perpl_p_4,1.0,Perplexity prompt
+716,CopyLeaks,prt_perpl_p_6,1.0,Perplexity prompt
+717,CopyLeaks,prt_perpl_p_9,1.0,Perplexity prompt
+718,CopyLeaks,prt_smareg_p_1,1.0,Regen smart prompt
+719,CopyLeaks,prt_smareg_p_11,1.0,Regen smart prompt
+720,CopyLeaks,prt_smareg_p_13,1.0,Regen smart prompt
+721,CopyLeaks,prt_perpl_p_7,1.0,Perplexity prompt
+722,CopyLeaks,prt_perpl_p_8,1.0,Perplexity prompt
+723,CopyLeaks,prt_smareg_p_0,1.0,Regen smart prompt
+724,CopyLeaks,prt_smareg_p_15,1.0,Regen smart prompt
+725,CopyLeaks,prt_smareg_p_18,1.0,Regen smart prompt
+726,CopyLeaks,prt_smareg_p_14,1.0,Regen smart prompt
+727,CopyLeaks,prt_smareg_p_10,1.0,Regen smart prompt
+728,CopyLeaks,prt_smareg_p_12,1.0,Regen smart prompt
+729,CopyLeaks,prt_smareg_p_17,1.0,Regen smart prompt
+730,CopyLeaks,prt_smareg_p_16,1.0,Regen smart prompt
+731,CopyLeaks,prt_smareg_p_19,1.0,Regen smart prompt
+732,CopyLeaks,prt_smareg_p_6,1.0,Regen smart prompt
+733,CopyLeaks,prt_smareg_p_4,1.0,Regen smart prompt
+734,CopyLeaks,prt_smareg_p_9,1.0,Regen smart prompt
+735,CopyLeaks,prt_sma_p_1,1.0,Smart prompt
+736,CopyLeaks,prt_smareg_p_2,1.0,Regen smart prompt
+737,CopyLeaks,prt_smareg_p_5,1.0,Regen smart prompt
+738,CopyLeaks,prt_smareg_p_3,1.0,Regen smart prompt
+739,CopyLeaks,prt_smareg_p_8,1.0,Regen smart prompt
+740,CopyLeaks,prt_sma_p_0,1.0,Smart prompt
+741,CopyLeaks,prt_smareg_p_7,1.0,Regen smart prompt
+742,CopyLeaks,prt_sma_p_12,1.0,Smart prompt
+743,CopyLeaks,prt_sma_p_14,1.0,Smart prompt
+744,CopyLeaks,prt_sma_p_13,1.0,Smart prompt
+745,CopyLeaks,prt_sma_p_15,1.0,Smart prompt
+746,CopyLeaks,prt_sma_p_16,1.0,Smart prompt
+747,CopyLeaks,prt_sma_p_17,1.0,Smart prompt
+748,CopyLeaks,prt_sma_p_3,1.0,Smart prompt
+749,CopyLeaks,prt_sma_p_10,1.0,Smart prompt
+750,CopyLeaks,prt_sma_p_11,1.0,Smart prompt
+751,CopyLeaks,prt_sma_p_5,1.0,Smart prompt
+752,CopyLeaks,prt_sma_p_7,1.0,Smart prompt
+753,CopyLeaks,prt_sma_p_19,1.0,Smart prompt
+754,CopyLeaks,prt_sma_p_8,1.0,Smart prompt
+755,CopyLeaks,prt_sma_p_4,1.0,Smart prompt
+756,CopyLeaks,prt_sma_p_9,1.0,Smart prompt
+757,CopyLeaks,prt_sma_p_6,1.0,Smart prompt
+758,CopyLeaks,prt_stdreg_p_10,1.0,Baseline regen
+759,CopyLeaks,prt_sma_p_2,1.0,Smart prompt
+760,CopyLeaks,prt_sma_p_18,1.0,Smart prompt
+761,CopyLeaks,prt_stdreg_p_14,1.0,Baseline regen
+762,CopyLeaks,prt_stdreg_p_17,1.0,Baseline regen
+763,CopyLeaks,prt_stdreg_p_18,1.0,Baseline regen
+764,CopyLeaks,prt_stdreg_p_11,1.0,Baseline regen
+765,CopyLeaks,prt_stdreg_p_1,1.0,Baseline regen
+766,CopyLeaks,prt_stdreg_p_13,1.0,Baseline regen
+767,CopyLeaks,prt_stdreg_p_19,1.0,Baseline regen
+768,CopyLeaks,prt_stdreg_p_15,1.0,Baseline regen
+769,CopyLeaks,prt_stdreg_p_16,1.0,Baseline regen
+770,CopyLeaks,prt_stdreg_p_12,1.0,Baseline regen
+771,CopyLeaks,prt_stdreg_p_0,1.0,Baseline regen
+772,CopyLeaks,prt_stdreg_p_3,1.0,Baseline regen
+773,CopyLeaks,prt_stdreg_p_2,1.0,Baseline regen
+774,CopyLeaks,prt_stdreg_p_4,1.0,Baseline regen
+775,CopyLeaks,prt_stdreg_p_5,1.0,Baseline regen
+776,CopyLeaks,prt_stdreg_p_6,1.0,Baseline regen
+777,CopyLeaks,prt_std_p_10,1.0,Baseline prompt
+778,CopyLeaks,prt_stdreg_p_7,1.0,Baseline regen
+779,CopyLeaks,prt_std_p_11,1.0,Baseline prompt
+780,CopyLeaks,prt_std_p_14,1.0,Baseline prompt
+781,CopyLeaks,prt_std_p_0,1.0,Baseline prompt
+782,CopyLeaks,prt_stdreg_p_9,1.0,Baseline regen
+783,CopyLeaks,prt_stdreg_p_8,1.0,Baseline regen
+784,CopyLeaks,prt_std_p_1,1.0,Baseline prompt
+785,CopyLeaks,prt_std_p_15,1.0,Baseline prompt
+786,CopyLeaks,prt_std_p_16,1.0,Baseline prompt
+787,CopyLeaks,prt_std_p_17,1.0,Baseline prompt
+788,CopyLeaks,prt_std_p_13,1.0,Baseline prompt
+789,CopyLeaks,prt_std_p_12,1.0,Baseline prompt
+790,CopyLeaks,prt_std_p_2,1.0,Baseline prompt
+791,CopyLeaks,prt_std_p_6,1.0,Baseline prompt
+792,CopyLeaks,prt_std_p_18,1.0,Baseline prompt
+793,CopyLeaks,prt_std_p_7,1.0,Baseline prompt
+794,CopyLeaks,prt_std_p_8,1.0,Baseline prompt
+795,CopyLeaks,prt_std_p_4,1.0,Baseline prompt
+796,CopyLeaks,prt_std_p_5,1.0,Baseline prompt
+797,CopyLeaks,prt_std_p_19,1.0,Baseline prompt
+798,CopyLeaks,prt_std_p_3,1.0,Baseline prompt
+799,CopyLeaks,prt_std_p_9,1.0,Baseline prompt
